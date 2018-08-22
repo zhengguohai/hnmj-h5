@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="gameScene" Type="Plist" ID="356a9f20-a183-4a27-a59c-25e1dad1232e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/fansanpi/gameScene/biaoshi_anpai.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/binwang.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/btn_genfen.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/btn_kaishi.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/btn_qipai.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/btn_xiazhu.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/dikuang_jiangchi.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/dikuang_jiazhu.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/dikuang_jifang.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/dikuang_jifen.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/dikuang_renwuxinxi.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/dikuang_touxiang.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/dikuang_wanjia.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/dikuang_xiazhu.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/fansanpi.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/lixianzhong.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/logol.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/tip_xiazhu.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_binwang.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_fen_2.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_fen1.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_gen.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_gen1.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_jia(1).png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_jia.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_jixuyouxi.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_qipai.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_xiupai.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_xuanzuo.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/txt_zhu.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/zhuangtai_piaopai.png" />
+      <FilePathData Path="image/game/fansanpi/gameScene/tuteng.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="AnimEmojiPlist" Type="Plist" ID="014cd50c-db52-4313-b4ce-014f6e02bfd3" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/saying0.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/saying1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/saying2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/saying3.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

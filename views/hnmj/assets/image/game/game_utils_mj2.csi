@@ -1,0 +1,19 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="game_utils_mj2" Type="Plist" ID="04f73f69-3200-4a45-ac14-31e552a079fc" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/game_utils_mj/bu.png" />
+      <FilePathData Path="image/game/game_utils_mj/chi.png" />
+      <FilePathData Path="image/game/game_utils_mj/gang.png" />
+      <FilePathData Path="image/game/game_utils_mj/guo.png" />
+      <FilePathData Path="image/game/game_utils_mj/hu.png" />
+      <FilePathData Path="image/game/game_utils_mj/peng.png" />
+      <FilePathData Path="image/game/game_utils_mj/point1.png" />
+      <FilePathData Path="image/game/game_utils_mj/ui_outline.png" />
+      <FilePathData Path="image/game/game_utils_mj/yao.png" />
+      <FilePathData Path="image/game/game_utils_mj/kaigang.png" />
+      <FilePathData Path="image/game/game_utils_mj/dashai.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

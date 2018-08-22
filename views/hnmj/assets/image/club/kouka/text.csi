@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="text" Type="Plist" ID="72e05b18-2c0e-4141-b39f-f482db895850" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/club/kouka/16ju.png" />
+      <FilePathData Path="image/club/kouka/2ma.png" />
+      <FilePathData Path="image/club/kouka/3ma.png" />
+      <FilePathData Path="image/club/kouka/3ren.png" />
+      <FilePathData Path="image/club/kouka/4ma.png" />
+      <FilePathData Path="image/club/kouka/4ren.png" />
+      <FilePathData Path="image/club/kouka/6ma.png" />
+      <FilePathData Path="image/club/kouka/8ju.png" />
+      <FilePathData Path="image/club/kouka/jiarutiaojiao.png" />
+      <FilePathData Path="image/club/kouka/jinqunzhukaifang.png" />
+      <FilePathData Path="image/club/kouka/jukebuchengyuan.png" />
+      <FilePathData Path="image/club/kouka/jushu.png" />
+      <FilePathData Path="image/club/kouka/kaifangquanxian.png" />
+      <FilePathData Path="image/club/kouka/kehuqidui.png" />
+      <FilePathData Path="image/club/kouka/koufangka.png" />
+      <FilePathData Path="image/club/kouka/koukaifangzhefangka.png" />
+      <FilePathData Path="image/club/kouka/kouqunzhufangka.png" />
+      <FilePathData Path="image/club/kouka/miluohongzhong.png" />
+      <FilePathData Path="image/club/kouka/renheren.png" />
+      <FilePathData Path="image/club/kouka/renshu.png" />
+      <FilePathData Path="image/club/kouka/suoyourenkekaifang.png" />
+      <FilePathData Path="image/club/kouka/wanfa.png" />
+      <FilePathData Path="image/club/kouka/yimaquanzhong.png" />
+      <FilePathData Path="image/club/kouka/zhama.png" />
+      <FilePathData Path="image/club/kouka/aakaifang.png" />
+      <FilePathData Path="image/club/kouka/btn_huang.png" />
+      <FilePathData Path="image/club/kouka/btn_hui.png" />
+      <FilePathData Path="image/club/kouka/btn_jin2.png" />
+      <FilePathData Path="image/club/kouka/btn_shezhi.png" />
+      <FilePathData Path="image/club/kouka/danxuan_hui.png" />
+      <FilePathData Path="image/club/kouka/koudayingjiaka.png" />
+      <FilePathData Path="image/club/kouka/koudayingjiaka2.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

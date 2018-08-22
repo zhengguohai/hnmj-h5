@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="eff_1" Type="Plist" ID="34982455-40a9-49ef-b1da-4366aaf6bd84" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/doudizhuImage/gameImg/eff/1.png" />
+      <FilePathData Path="image/game/doudizhuImage/gameImg/eff/10.png" />
+      <FilePathData Path="image/game/doudizhuImage/gameImg/eff/2.png" />
+      <FilePathData Path="image/game/doudizhuImage/gameImg/eff/3.png" />
+      <FilePathData Path="image/game/doudizhuImage/gameImg/eff/4.png" />
+      <FilePathData Path="image/game/doudizhuImage/gameImg/eff/5.png" />
+      <FilePathData Path="image/game/doudizhuImage/gameImg/eff/6.png" />
+      <FilePathData Path="image/game/doudizhuImage/gameImg/eff/7.png" />
+      <FilePathData Path="image/game/doudizhuImage/gameImg/eff/8.png" />
+      <FilePathData Path="image/game/doudizhuImage/gameImg/eff/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/game/paohuzi/AnimationEffect/ChuPai/ChuPai_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{156,148}}</string>
+				<key>offset</key>
+				<string>{-22,-11}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{201,170}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/ChuPai/ChuPai_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,126},{155,129}}</string>
+				<key>offset</key>
+				<string>{-19,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{201,170}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/ChuPai/ChuPai_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{151,1},{157,145}}</string>
+				<key>offset</key>
+				<string>{-3,13}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{201,170}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/ChuPai/ChuPai_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{298,1},{167,123}}</string>
+				<key>offset</key>
+				<string>{12,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{201,170}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AnimChuPaiPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>AnimChuPaiPlist.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,38 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="sandaha" Type="Plist" ID="ae851ad0-81e8-4741-a1e0-5d33c379b8ac" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/sandaha/1_fang.png" />
+      <FilePathData Path="image/game/sandaha/1_heitao.png" />
+      <FilePathData Path="image/game/sandaha/1_meihua.png" />
+      <FilePathData Path="image/game/sandaha/1_xin.png" />
+      <FilePathData Path="image/game/sandaha/baofu.png" />
+      <FilePathData Path="image/game/sandaha/bg20.jpg" />
+      <FilePathData Path="image/game/sandaha/big.png" />
+      <FilePathData Path="image/game/sandaha/btn_bg.png" />
+      <FilePathData Path="image/game/sandaha/btn_bujiao.png" />
+      <FilePathData Path="image/game/sandaha/btn_chupai.png" />
+      <FilePathData Path="image/game/sandaha/btn_jiao.png" />
+      <FilePathData Path="image/game/sandaha/btn_jipaiqi.png" />
+      <FilePathData Path="image/game/sandaha/btn_queding.png" />
+      <FilePathData Path="image/game/sandaha/btn_queding_hui.png" />
+      <FilePathData Path="image/game/sandaha/btn_tishi.png" />
+      <FilePathData Path="image/game/sandaha/btn_touxiang.png" />
+      <FilePathData Path="image/game/sandaha/btn_yqwxhy.png" />
+      <FilePathData Path="image/game/sandaha/btn_zhunbei.png" />
+      <FilePathData Path="image/game/sandaha/jf_bg.png" />
+      <FilePathData Path="image/game/sandaha/jiesuandi_6ren.png" />
+      <FilePathData Path="image/game/sandaha/title_dadao.png" />
+      <FilePathData Path="image/game/sandaha/title_daguang.png" />
+      <FilePathData Path="image/game/sandaha/title_guozhuang.png" />
+      <FilePathData Path="image/game/sandaha/title_kuazhuang.png" />
+      <FilePathData Path="image/game/sandaha/title_xiaodao.png" />
+      <FilePathData Path="image/game/sandaha/title_xiaoguang.png" />
+      <FilePathData Path="image/game/sandaha/txt_1.png" />
+      <FilePathData Path="image/game/sandaha/txt_maidi.png" />
+      <FilePathData Path="image/game/sandaha/xiankuang_dipai.png" />
+      <FilePathData Path="image/game/sandaha/zhu.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

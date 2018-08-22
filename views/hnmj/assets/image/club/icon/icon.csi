@@ -1,0 +1,35 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="icon" Type="Plist" ID="eb55eddf-aa64-484b-af18-03eae7f19145" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/club/icon/icon1.png" />
+      <FilePathData Path="image/club/icon/icon10.png" />
+      <FilePathData Path="image/club/icon/icon2.png" />
+      <FilePathData Path="image/club/icon/icon3.png" />
+      <FilePathData Path="image/club/icon/icon4.png" />
+      <FilePathData Path="image/club/icon/icon5.png" />
+      <FilePathData Path="image/club/icon/icon6.png" />
+      <FilePathData Path="image/club/icon/icon7.png" />
+      <FilePathData Path="image/club/icon/icon8.png" />
+      <FilePathData Path="image/club/icon/icon9.png" />
+      <FilePathData Path="image/club/icon/icon_cs.png" />
+      <FilePathData Path="image/club/icon/icon_hh.png" />
+      <FilePathData Path="image/club/icon/icon_hy.png" />
+      <FilePathData Path="image/club/icon/icon_hz.png" />
+      <FilePathData Path="image/club/icon/icon_ld.png" />
+      <FilePathData Path="image/club/icon/icon_majiang.png" />
+      <FilePathData Path="image/club/icon/icon_poker.png" />
+      <FilePathData Path="image/club/icon/icon_qipai.png" />
+      <FilePathData Path="image/club/icon/icon_zz.png" />
+      <FilePathData Path="image/club/icon/icon_xx.png" />
+      <FilePathData Path="image/club/icon/assistantIcon.png" />
+      <FilePathData Path="image/club/icon/defaultIcon.png" />
+      <FilePathData Path="image/club/icon/icon_ningxiang.png" />
+      <FilePathData Path="image/club/icon/icon_phz.png" />
+      <FilePathData Path="image/club/icon/icon_bbtz.png" />
+      <FilePathData Path="image/club/icon/icon_dtz.png" />
+      <FilePathData Path="image/club/icon/icon_sy.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,45 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="ui_cards" Type="Plist" ID="b298bce8-ac0c-4c9f-89fd-61b841c66e87" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/Pokercards/black_10.png" />
+      <FilePathData Path="image/game/Pokercards/black_2.png" />
+      <FilePathData Path="image/game/Pokercards/black_3.png" />
+      <FilePathData Path="image/game/Pokercards/black_4.png" />
+      <FilePathData Path="image/game/Pokercards/black_5.png" />
+      <FilePathData Path="image/game/Pokercards/black_6.png" />
+      <FilePathData Path="image/game/Pokercards/black_7.png" />
+      <FilePathData Path="image/game/Pokercards/black_8.png" />
+      <FilePathData Path="image/game/Pokercards/black_9.png" />
+      <FilePathData Path="image/game/Pokercards/black_A.png" />
+      <FilePathData Path="image/game/Pokercards/black_J.png" />
+      <FilePathData Path="image/game/Pokercards/black_Joker.png" />
+      <FilePathData Path="image/game/Pokercards/black_K.png" />
+      <FilePathData Path="image/game/Pokercards/black_Q.png" />
+      <FilePathData Path="image/game/Pokercards/black_wang.png" />
+      <FilePathData Path="image/game/Pokercards/newfang.png" />
+      <FilePathData Path="image/game/Pokercards/newheart.png" />
+      <FilePathData Path="image/game/Pokercards/newmeihua.png" />
+      <FilePathData Path="image/game/Pokercards/newtao.png" />
+      <FilePathData Path="image/game/Pokercards/red_10.png" />
+      <FilePathData Path="image/game/Pokercards/red_2.png" />
+      <FilePathData Path="image/game/Pokercards/red_3.png" />
+      <FilePathData Path="image/game/Pokercards/red_4.png" />
+      <FilePathData Path="image/game/Pokercards/red_5.png" />
+      <FilePathData Path="image/game/Pokercards/red_6.png" />
+      <FilePathData Path="image/game/Pokercards/red_7.png" />
+      <FilePathData Path="image/game/Pokercards/red_8.png" />
+      <FilePathData Path="image/game/Pokercards/red_9.png" />
+      <FilePathData Path="image/game/Pokercards/red_A.png" />
+      <FilePathData Path="image/game/Pokercards/red_J.png" />
+      <FilePathData Path="image/game/Pokercards/red_Joker.png" />
+      <FilePathData Path="image/game/Pokercards/red_K.png" />
+      <FilePathData Path="image/game/Pokercards/red_Q.png" />
+      <FilePathData Path="image/game/Pokercards/red_wang.png" />
+      <FilePathData Path="image/game/Pokercards/pork_bg.png" />
+      <FilePathData Path="image/game/Pokercards/1_card.png" />
+      <FilePathData Path="image/game/Pokercards/select.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

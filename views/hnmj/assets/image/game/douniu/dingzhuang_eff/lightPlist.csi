@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="lightPlist" Type="Plist" ID="9185bf0f-3f91-4471-a02b-717b1cc77eff" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/douniu/dingzhuang_eff/faguang_00.png" />
+      <FilePathData Path="image/game/douniu/dingzhuang_eff/faguang_01.png" />
+      <FilePathData Path="image/game/douniu/dingzhuang_eff/faguang_02.png" />
+      <FilePathData Path="image/game/douniu/dingzhuang_eff/faguang_03.png" />
+      <FilePathData Path="image/game/douniu/dingzhuang_eff/faguang_04.png" />
+      <FilePathData Path="image/game/douniu/dingzhuang_eff/faguang_05.png" />
+      <FilePathData Path="image/game/douniu/dingzhuang_eff/faguang_06.png" />
+      <FilePathData Path="image/game/douniu/dingzhuang_eff/faguang_07.png" />
+      <FilePathData Path="image/game/douniu/dingzhuang_eff/faguang_08.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="power" Type="Plist" ID="052d77b6-eadd-44ac-aaa1-33f9d21d3e1c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/power/power_1.png" />
+      <FilePathData Path="image/game/power/power_2.png" />
+      <FilePathData Path="image/game/power/signal_0.png" />
+      <FilePathData Path="image/game/power/signal_1.png" />
+      <FilePathData Path="image/game/power/signal_2.png" />
+      <FilePathData Path="image/game/power/signal_3.png" />
+      <FilePathData Path="image/game/power/signal_4.png" />
+      <FilePathData Path="image/game/power/signal_5.png" />
+      <FilePathData Path="image/game/power/wifi_0.png" />
+      <FilePathData Path="image/game/power/wifi_1.png" />
+      <FilePathData Path="image/game/power/wifi_2.png" />
+      <FilePathData Path="image/game/power/wifi_3.png" />
+    </ImageFiles>
+    <MaxSize Width="128" Height="128" />
+  </Content>
+</PlistInfoProjectFile>

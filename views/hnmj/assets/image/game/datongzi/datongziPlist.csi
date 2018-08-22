@@ -1,0 +1,43 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="datongziPlist" Type="Plist" ID="b70227d4-353b-4b9f-92b4-9d9892b7799b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/datongzi/jiesuan/btn_fanhuidating.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/btn_fenxiangzhanji.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/button_fanhui.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/img_fen.png" />
+      <FilePathData Path="image/game/datongzi/room/button_jipaiqi.png" />
+      <FilePathData Path="image/game/datongzi/room/dikuang_fanghao.png" />
+      <FilePathData Path="image/game/datongzi/room/dikuang_fenshu.png" />
+      <FilePathData Path="image/game/datongzi/room/dikuang_zhangshu.png" />
+      <FilePathData Path="image/game/datongzi/room/game_paishu_bg.png" />
+      <FilePathData Path="image/game/datongzi/room/xiankuang_dipai.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/pai_10.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/pai_5.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/pai_dz.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/pai_k.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/pai_tz.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/pai_xi.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/lost_fen.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/mingci1.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/mingci2.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/mingci3.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/sm_x.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/fegenxian.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/txt_paiku.png" />
+      <FilePathData Path="image/game/datongzi/player/img_you_1.png" />
+      <FilePathData Path="image/game/datongzi/player/img_you_2.png" />
+      <FilePathData Path="image/game/datongzi/player/img_you_3.png" />
+      <FilePathData Path="image/game/datongzi/player/renwukuang.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/btn_chengse.png" />
+      <FilePathData Path="image/game/datongzi/room/dztz_bg.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/btn_jixuyouxi.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/di00.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/di2.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/dikuan_1.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/dikuan_2.png" />
+      <FilePathData Path="image/game/datongzi/jiesuan/t_xiangqing.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

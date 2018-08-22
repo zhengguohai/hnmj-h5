@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/saying0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{128,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{128,30}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/saying1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{131,1},{128,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{128,30}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/saying2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,1},{128,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{128,30}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/saying3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{195,1},{128,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{128,30}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AnimEmojiPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>AnimEmojiPlist.png</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

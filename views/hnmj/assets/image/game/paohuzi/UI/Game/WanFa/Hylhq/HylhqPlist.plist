@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/Btn_Exit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,286},{59,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,73}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/Btn_Setting.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,361},{59,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,73}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/Btn_WanFa.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,436},{59,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{59,73}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/FenShubg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{92,64},{120,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,49}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/head.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{150,1},{93,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{93,93}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/BeiShu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,262},{60,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{60,25}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/ChaKan.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{147,61}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{147,61}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/DangJuFenShu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{36,150},{110,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,25}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/HuXi.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,324},{60,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{60,25}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/LeiJiFenShu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{63,150},{110,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{110,25}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/MingTang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,386},{60,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{60,25}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/RoomResultText.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,64},{89,84}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{89,84}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/Title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,150},{134,33}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{134,33}</string>
+			</dict>
+			<key>image/game/paohuzi/UI/Game/WanFa/Hylhq/TunShu.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{62,448},{60,25}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{60,25}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>HylhqPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>HylhqPlist.png</string>
+			<key>size</key>
+			<string>{256,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

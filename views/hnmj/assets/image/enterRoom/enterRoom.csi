@@ -1,0 +1,23 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="enterRoom" Type="Plist" ID="1e8c725f-f613-4822-a3a3-5aa27d57646f" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/enterRoom/btn_0.png" />
+      <FilePathData Path="image/enterRoom/btn_1.png" />
+      <FilePathData Path="image/enterRoom/btn_2.png" />
+      <FilePathData Path="image/enterRoom/btn_3.png" />
+      <FilePathData Path="image/enterRoom/btn_4.png" />
+      <FilePathData Path="image/enterRoom/btn_5.png" />
+      <FilePathData Path="image/enterRoom/btn_6.png" />
+      <FilePathData Path="image/enterRoom/btn_7.png" />
+      <FilePathData Path="image/enterRoom/btn_8.png" />
+      <FilePathData Path="image/enterRoom/btn_9.png" />
+      <FilePathData Path="image/enterRoom/btn_congshu.png" />
+      <FilePathData Path="image/enterRoom/btn_queding.png" />
+      <FilePathData Path="image/enterRoom/btn_shanchu.png" />
+      <FilePathData Path="image/enterRoom/hengxian.png" />
+      <FilePathData Path="image/enterRoom/kuang.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

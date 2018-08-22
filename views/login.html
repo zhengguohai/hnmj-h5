@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html style="height:100%">
+  <head>
+    <meta charset="utf-8">
+    <title><%= title %></title>
+    <meta name="description" content="">
+    <meta name="Keywords" content="">
+    <meta property="qc:admins" content="21006731210171566375636" />
+    <meta name="sogou_site_verification" content="PKdaE8nSIj"/>
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" /><script src="../h5b.js" charset="utf-8" ></script>
+    <script src="../Majiang.js" charset="utf-8" ></script> -->
+    <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes" /><!-- 删除苹果默认的工具栏和菜单栏 -->
+    <meta name="screen-orientation" content="portrait">
+    <meta name="x5-fullscreen" content="true">
+    <meta name="360-fullscreen" content="true">
+    <link rel="stylesheet" type="text/css" href="https://can.alxmo.com/css/can.css"/>
+    <script src = "/js/jquery-1.7.2.min.js"></script>
+    <script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+    <script src="/js/share.js?t=<%=t %>" charset="utf-8" ></script>
+    <script src="https://can.alxmo.com/can.min.js"></script>
+    <script src="/js/bytebuf.js?t=<%=t %>" charset="utf-8" ></script>
+    <script src="/js/hall.js?t=<%=t %>" charset="utf-8" ></script>
+    <script src="/js/game.js?t=<%=t %>" charset="utf-8" ></script>
+    <script src="/js/club.js?t=<%=t %>" charset="utf-8" ></script>
+    <script src="/rules/zhuanzhuan.js?t=<%=t %>" charset="utf-8" ></script>
+    <script>
+        function getCookie(cname){
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for(var i=0; i<ca.length; i++) {
+                var c = ca[i].trim();
+                if (c.indexOf(name)==0) { return c.substring(name.length,c.length); }
+            }
+            return "";
+        }
+        var accountInfo =getCookie("accountInfo");
+        accountInfo = unescape(accountInfo);
+        accountInfo = accountInfo.substring(2,accountInfo.length);
+        var accountInfo = JSON.parse(accountInfo);
+        var req={
+            t:"<%=t %>",
+            userID:"<%=uid %>",
+            accountID:"<%=accountId %>",
+            nickname:"<%=nickname %>",
+            ip:"<%=ip %>",
+            gateAddress:"<%=gateAddress %>",
+            hallKey: "<%=key %>",
+            ico: "<%=ico %>",
+            wxOpenId :accountInfo.wxOpenId,
+            version:"<%=version %>"
+        }
+    </script>
+  </head>
+  <!-- <body onload="H5b.init('canvas',30,'bin/app.json','');" style="margin: 0px"> -->
+    <!-- 
+	Can.init('项目文件',父元素Id(默认body),是否横屏,动画帧率,设备选项);
+	选项
+	{
+		iphone: "640 1136",
+		ipad: "800 1280",
+		android: "640 1136",
+		
+	}
+	-->
+	<body onload="Can.init('bin/app',null, true, 25, {iphone:'720 1280',android: '720 1280'})">
+  </body>
+  <script type="text/javascript">
+    //   onerror=handleErr
+      var txt="";
+
+      function handleErr(msg,url,l)
+      {
+          txt="There was an error on this page.\n\n"
+          txt+="Error: " + msg + "\n"
+          txt+="URL: " + url + "\n"
+          txt+="Line: " + l + "\n\n"
+          txt+="Click OK to continue.\n\n"
+          alert(txt)
+          return true
+      }
+
+      function message()
+      {
+          adddlert("Welcome guest!")
+      }
+  </script>
+</html>

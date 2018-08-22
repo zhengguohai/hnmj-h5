@@ -1,0 +1,74 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="gzms" Type="Plist" ID="6dd46656-5b71-472b-a5d5-b03bec7efa8a" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/gzms/bianbian_1.png" />
+      <FilePathData Path="image/gzms/bianbian_2.png" />
+      <FilePathData Path="image/gzms/bianbian_3.png" />
+      <FilePathData Path="image/gzms/bianbian_4.png" />
+      <FilePathData Path="image/gzms/bianbian_5.png" />
+      <FilePathData Path="image/gzms/bianbian_6.png" />
+      <FilePathData Path="image/gzms/bianbian_7.png" />
+      <FilePathData Path="image/gzms/bianbian_8.png" />
+      <FilePathData Path="image/gzms/bianbian_9.png" />
+      <FilePathData Path="image/gzms/chook_1.png" />
+      <FilePathData Path="image/gzms/chook_2.png" />
+      <FilePathData Path="image/gzms/chook_3.png" />
+      <FilePathData Path="image/gzms/chook_4.png" />
+      <FilePathData Path="image/gzms/chook_5.png" />
+      <FilePathData Path="image/gzms/chook_6.png" />
+      <FilePathData Path="image/gzms/chook_7.png" />
+      <FilePathData Path="image/gzms/egg_1.png" />
+      <FilePathData Path="image/gzms/egg_2.png" />
+      <FilePathData Path="image/gzms/egg_3.png" />
+      <FilePathData Path="image/gzms/egg_4.png" />
+      <FilePathData Path="image/gzms/egg_5.png" />
+      <FilePathData Path="image/gzms/egg_6.png" />
+      <FilePathData Path="image/gzms/egg_7.png" />
+      <FilePathData Path="image/gzms/fish_1.png" />
+      <FilePathData Path="image/gzms/fish_10.png" />
+      <FilePathData Path="image/gzms/fish_2.png" />
+      <FilePathData Path="image/gzms/fish_3.png" />
+      <FilePathData Path="image/gzms/fish_4.png" />
+      <FilePathData Path="image/gzms/fish_5.png" />
+      <FilePathData Path="image/gzms/fish_6.png" />
+      <FilePathData Path="image/gzms/fish_7.png" />
+      <FilePathData Path="image/gzms/fish_8.png" />
+      <FilePathData Path="image/gzms/fish_9.png" />
+      <FilePathData Path="image/gzms/gzms_bg.png" />
+      <FilePathData Path="image/gzms/gzms_btn_buy.png" />
+      <FilePathData Path="image/gzms/gzms_btn_gz.png" />
+      <FilePathData Path="image/gzms/gzms_btn_zq.png" />
+      <FilePathData Path="image/gzms/gzms_btn_zx.png" />
+      <FilePathData Path="image/gzms/gzms_chicken.png" />
+      <FilePathData Path="image/gzms/gzms_egg.png" />
+      <FilePathData Path="image/gzms/gzms_fish.png" />
+      <FilePathData Path="image/gzms/gzms_flag.png" />
+      <FilePathData Path="image/gzms/gzms_gifbg.png" />
+      <FilePathData Path="image/gzms/gzms_gold.png" />
+      <FilePathData Path="image/gzms/gzms_gold1.png" />
+      <FilePathData Path="image/gzms/gzms_gold2.png" />
+      <FilePathData Path="image/gzms/gzms_gold3.png" />
+      <FilePathData Path="image/gzms/gzms_headbg1.png" />
+      <FilePathData Path="image/gzms/gzms_headbg2.png" />
+      <FilePathData Path="image/gzms/gzms_kiss.png" />
+      <FilePathData Path="image/gzms/gzms_rose.png" />
+      <FilePathData Path="image/gzms/gzms_shit.png" />
+      <FilePathData Path="image/gzms/kiss_1.png" />
+      <FilePathData Path="image/gzms/kiss_2.png" />
+      <FilePathData Path="image/gzms/kiss_3.png" />
+      <FilePathData Path="image/gzms/kiss_4.png" />
+      <FilePathData Path="image/gzms/kiss_5.png" />
+      <FilePathData Path="image/gzms/kiss_6.png" />
+      <FilePathData Path="image/gzms/kiss_7.png" />
+      <FilePathData Path="image/gzms/rose_1.png" />
+      <FilePathData Path="image/gzms/rose_2.png" />
+      <FilePathData Path="image/gzms/rose_3.png" />
+      <FilePathData Path="image/gzms/rose_4.png" />
+      <FilePathData Path="image/gzms/rose_5.png" />
+      <FilePathData Path="image/gzms/rose_6.png" />
+      <FilePathData Path="image/gzms/rose_7.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

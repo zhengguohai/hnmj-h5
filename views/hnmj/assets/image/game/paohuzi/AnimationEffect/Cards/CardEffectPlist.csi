@@ -1,0 +1,31 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CardEffectPlist" Type="Plist" ID="d8cd7825-1ee3-4775-aa76-26a6b1886183" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/HaiDi_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/HaiDi_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/HaiDi_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/HaiDi_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/HaiDi_5.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/HaiDi_Icon.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/LiangZhang_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/LiangZhang_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/LiangZhang_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/LiangZhang_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/LiangZhang_5.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/LiangZhang_Icon.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/DangDi.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/FanXing_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/FanXing_10.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/FanXing_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/FanXing_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/FanXing_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/FanXing_5.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/FanXing_6.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/FanXing_7.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/FanXing_8.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Cards/FanXing_9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

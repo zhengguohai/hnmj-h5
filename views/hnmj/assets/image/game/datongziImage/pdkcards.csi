@@ -1,0 +1,50 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="pdkcards" Type="Plist" ID="254e706c-2f3f-4b60-bde4-600ed0b83875" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/datongziImage/cards/bg_dizha.png" />
+      <FilePathData Path="image/game/datongziImage/cards/bg_tongzi.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_10.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_2.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_3.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_4.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_5.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_6.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_7.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_8.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_9.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_A.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_J.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_Joker.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_K.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_Q.png" />
+      <FilePathData Path="image/game/datongziImage/cards/black_wang.png" />
+      <FilePathData Path="image/game/datongziImage/cards/newfang.png" />
+      <FilePathData Path="image/game/datongziImage/cards/newheart.png" />
+      <FilePathData Path="image/game/datongziImage/cards/newmeihua.png" />
+      <FilePathData Path="image/game/datongziImage/cards/newtao.png" />
+      <FilePathData Path="image/game/datongziImage/cards/pork_bg.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_10.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_2.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_3.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_4.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_5.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_6.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_7.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_8.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_9.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_A.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_J.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_Joker.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_K.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_Q.png" />
+      <FilePathData Path="image/game/datongziImage/cards/red_wang.png" />
+      <FilePathData Path="image/game/datongziImage/cards/1-card.png" />
+      <FilePathData Path="image/game/datongziImage/cards/select.png" />
+      <FilePathData Path="image/game/datongziImage/cards/1-joke_black.png" />
+      <FilePathData Path="image/game/datongziImage/cards/1-joke_yellow.png" />
+      <FilePathData Path="image/game/datongziImage/cards/1-joker_red.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,26 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="openresult" Type="Plist" ID="9e974e76-7bf7-4043-9463-3a54f15168f7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/douniu/openresult/0.png" />
+      <FilePathData Path="image/game/douniu/openresult/10.png" />
+      <FilePathData Path="image/game/douniu/openresult/100.png" />
+      <FilePathData Path="image/game/douniu/openresult/10000.png" />
+      <FilePathData Path="image/game/douniu/openresult/20.png" />
+      <FilePathData Path="image/game/douniu/openresult/30.png" />
+      <FilePathData Path="image/game/douniu/openresult/40.png" />
+      <FilePathData Path="image/game/douniu/openresult/400.png" />
+      <FilePathData Path="image/game/douniu/openresult/50.png" />
+      <FilePathData Path="image/game/douniu/openresult/500.png" />
+      <FilePathData Path="image/game/douniu/openresult/60.png" />
+      <FilePathData Path="image/game/douniu/openresult/70.png" />
+      <FilePathData Path="image/game/douniu/openresult/80.png" />
+      <FilePathData Path="image/game/douniu/openresult/90.png" />
+      <FilePathData Path="image/game/douniu/openresult/200.png" />
+      <FilePathData Path="image/game/douniu/openresult/300.png" />
+      <FilePathData Path="image/game/douniu/openresult/open_bg.png" />
+      <FilePathData Path="image/game/douniu/openresult/x.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

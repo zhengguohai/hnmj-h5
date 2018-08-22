@@ -1,0 +1,23 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="pdkOtherImg" Type="Plist" ID="83f43a79-e4b9-4f29-a9ca-1ecf1fa878b5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paodekuaiImage/hongtao10.png" />
+      <FilePathData Path="image/game/paodekuaiImage/imgx2.png" />
+      <FilePathData Path="image/game/paodekuaiImage/ll.png" />
+      <FilePathData Path="image/game/paodekuaiImage/pdkjshei.png" />
+      <FilePathData Path="image/game/paodekuaiImage/pdkjsquan.png" />
+      <FilePathData Path="image/game/paodekuaiImage/resultUI_success.png" />
+      <FilePathData Path="image/game/paodekuaiImage/sheng.png" />
+      <FilePathData Path="image/game/paodekuaiImage/dikuang_fu.png" />
+      <FilePathData Path="image/game/paodekuaiImage/dikuang_sheng.png" />
+      <FilePathData Path="image/game/paodekuaiImage/dikuang_fen.png" />
+      <FilePathData Path="image/game/paodekuaiImage/diwen_zongchengji.png" />
+      <FilePathData Path="image/game/paodekuaiImage/dikuang_dajiesuan.png" />
+      <FilePathData Path="image/game/paodekuaiImage/dikuang_dajiesuan_win.png" />
+      <FilePathData Path="image/game/paodekuaiImage/dikuang_shengyupaishu.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cardPatterm10.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

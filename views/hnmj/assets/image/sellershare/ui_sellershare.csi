@@ -1,0 +1,83 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="ui_sellershare" Type="Plist" ID="9dc0bfcf-cc47-4f98-9855-1f2aa8a4bbac" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/sellershare/_tishi.png" />
+      <FilePathData Path="image/sellershare/_top_bg.png" />
+      <FilePathData Path="image/sellershare/btn_2code.png" />
+      <FilePathData Path="image/sellershare/btn_2wechatfriend.png" />
+      <FilePathData Path="image/sellershare/btn_2wechatline.png" />
+      <FilePathData Path="image/sellershare/btn_baseinfo.png" />
+      <FilePathData Path="image/sellershare/btn_baseinfo_en.png" />
+      <FilePathData Path="image/sellershare/btn_big_reward.png" />
+      <FilePathData Path="image/sellershare/btn_big_sure.png" />
+      <FilePathData Path="image/sellershare/btn_bottom.png" />
+      <FilePathData Path="image/sellershare/btn_buy.png" />
+      <FilePathData Path="image/sellershare/btn_buycard.png" />
+      <FilePathData Path="image/sellershare/btn_cancel.png" />
+      <FilePathData Path="image/sellershare/btn_close1.png" />
+      <FilePathData Path="image/sellershare/btn_close2.png" />
+      <FilePathData Path="image/sellershare/btn_delegatecenter.png" />
+      <FilePathData Path="image/sellershare/btn_enterseller.png" />
+      <FilePathData Path="image/sellershare/btn_face2face.png" />
+      <FilePathData Path="image/sellershare/btn_getcard.png" />
+      <FilePathData Path="image/sellershare/btn_getredpocket.png" />
+      <FilePathData Path="image/sellershare/btn_getreward.png" />
+      <FilePathData Path="image/sellershare/btn_getsomething.png" />
+      <FilePathData Path="image/sellershare/btn_head_bgman.png" />
+      <FilePathData Path="image/sellershare/btn_head_bgwomen.png" />
+      <FilePathData Path="image/sellershare/btn_myreceive.png" />
+      <FilePathData Path="image/sellershare/btn_myroom.png" />
+      <FilePathData Path="image/sellershare/btn_nextpage.png" />
+      <FilePathData Path="image/sellershare/btn_ok.png" />
+      <FilePathData Path="image/sellershare/btn_red_pocket_base.png" />
+      <FilePathData Path="image/sellershare/btn_red_pocket_close0.png" />
+      <FilePathData Path="image/sellershare/btn_red_pocket_close1.png" />
+      <FilePathData Path="image/sellershare/btn_renzheng.png" />
+      <FilePathData Path="image/sellershare/btn_search.png" />
+      <FilePathData Path="image/sellershare/btn_sellershare.png" />
+      <FilePathData Path="image/sellershare/btn_sendcard.png" />
+      <FilePathData Path="image/sellershare/btn_sendcard_en.png" />
+      <FilePathData Path="image/sellershare/btn_senddata.png" />
+      <FilePathData Path="image/sellershare/btn_senddata_en.png" />
+      <FilePathData Path="image/sellershare/btn_service.png" />
+      <FilePathData Path="image/sellershare/btn_shareredpocket.png" />
+      <FilePathData Path="image/sellershare/btn_shareredpocket2.png" />
+      <FilePathData Path="image/sellershare/btn_sharereward.png" />
+      <FilePathData Path="image/sellershare/btn_small_exchange.png" />
+      <FilePathData Path="image/sellershare/btn_small_get.png" />
+      <FilePathData Path="image/sellershare/btn_small_reward.png" />
+      <FilePathData Path="image/sellershare/btn_small_sure.png" />
+      <FilePathData Path="image/sellershare/btn_submit.png" />
+      <FilePathData Path="image/sellershare/btn_sure.png" />
+      <FilePathData Path="image/sellershare/btn_tobedelegate.png" />
+      <FilePathData Path="image/sellershare/btn_uppage.png" />
+      <FilePathData Path="image/sellershare/img_bg1.png" />
+      <FilePathData Path="image/sellershare/img_bg2.png" />
+      <FilePathData Path="image/sellershare/img_bg3.png" />
+      <FilePathData Path="image/sellershare/img_bg4.png" />
+      <FilePathData Path="image/sellershare/img_editbox_bg.png" />
+      <FilePathData Path="image/sellershare/img_editbox_bg2.png" />
+      <FilePathData Path="image/sellershare/img_frineds.png" />
+      <FilePathData Path="image/sellershare/img_head.png" />
+      <FilePathData Path="image/sellershare/img_line2.png" />
+      <FilePathData Path="image/sellershare/img_question.png" />
+      <FilePathData Path="image/sellershare/img_red_pocket_total.png" />
+      <FilePathData Path="image/sellershare/img_redpage_bg.png" />
+      <FilePathData Path="image/sellershare/img_share.png" />
+      <FilePathData Path="image/sellershare/img_share_top.png" />
+      <FilePathData Path="image/sellershare/img_talk_bg.png" />
+      <FilePathData Path="image/sellershare/img_tips.png" />
+      <FilePathData Path="image/sellershare/img_tips_getreward.png" />
+      <FilePathData Path="image/sellershare/img_tips_service.png" />
+      <FilePathData Path="image/sellershare/img_tips_sharecenter.png" />
+      <FilePathData Path="image/sellershare/img_tips_tobedelegate.png" />
+      <FilePathData Path="image/sellershare/imgCards.png" />
+      <FilePathData Path="image/sellershare/chengweidaili.png" />
+      <FilePathData Path="image/sellershare/dailizhongxin.png" />
+      <FilePathData Path="image/sellershare/shimingrenzheng.png" />
+      <FilePathData Path="image/sellershare/point.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

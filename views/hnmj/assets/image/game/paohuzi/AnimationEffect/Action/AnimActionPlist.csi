@@ -1,0 +1,79 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="AnimActionPlist" Type="Plist" ID="1271d451-20ba-4a56-a05c-d7e39e133e9f" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Chi_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Chi_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Chi_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Light_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Light_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Light_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Light_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Light_5.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Light_6.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Light_7.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Light_8.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Light_9.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Light_90.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Pao_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Pao_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Pao_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Peng_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Peng_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Ti_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Ti_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Ti_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Wei.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Wei_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Wei_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouWei_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouWei_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouWei_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouWei_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouWei_5.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouWei_6.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/KaiZhao_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/KaiZhao_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/KaiZhao_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Long_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Long_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Long_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Long_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Qing_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Qing_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Zhuai_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Zhuai_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Zhuai_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouXiao_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouXiao_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouXiao_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouXiao_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouXiao_5.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/ChouXiao_6.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Xiao_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Xiao_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Xiao_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Xiao_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Xmz_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Xmz_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Xmz_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Xmz_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Chi_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Pao_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/KaiZhao_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Peng_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Peng_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Qing_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Qing_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Ti_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Wei_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/Zhuai_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/tou_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/tou_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/tou_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/tou_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Action/tou_5.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1200" />
+  </Content>
+</PlistInfoProjectFile>

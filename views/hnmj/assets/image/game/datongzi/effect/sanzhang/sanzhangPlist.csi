@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="sanzhangPlist" Type="Plist" ID="5f70f30b-b175-4931-b1fc-8d187a8be7a0" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/datongzi/effect/sanzhang/sanzhang_1.png" />
+      <FilePathData Path="image/game/datongzi/effect/sanzhang/sanzhang_2.png" />
+      <FilePathData Path="image/game/datongzi/effect/sanzhang/sanzhang_3.png" />
+      <FilePathData Path="image/game/datongzi/effect/sanzhang/sanzhang_4.png" />
+      <FilePathData Path="image/game/datongzi/effect/sanzhang/sanzhang_5.png" />
+      <FilePathData Path="image/game/datongzi/effect/sanzhang/sanzhang_6.png" />
+      <FilePathData Path="image/game/datongzi/effect/sanzhang/sanzhang_7.png" />
+      <FilePathData Path="image/game/datongzi/effect/sanzhang/sanzhang_8.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

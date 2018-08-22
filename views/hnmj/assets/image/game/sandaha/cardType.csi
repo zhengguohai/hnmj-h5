@@ -1,0 +1,39 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="cardType" Type="Plist" ID="f519b045-83c6-4da6-95cd-d3e11e03d2c3" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_00.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_01.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_02.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_03.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_04.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_05.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_06.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_07.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_08.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_09.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_10.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_11.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_12.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_13.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_14.png" />
+      <FilePathData Path="image/game/sandaha/cardType/tuolaji_15.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_00.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_01.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_02.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_03.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_04.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_05.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_06.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_07.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_08.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_09.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_10.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_11.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_12.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_13.png" />
+      <FilePathData Path="image/game/sandaha/cardType/baiqi_14.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

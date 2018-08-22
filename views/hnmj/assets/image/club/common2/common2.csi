@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="common2" Type="Plist" ID="31178d25-bef5-472b-9af0-434a96048b58" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/club/common2/btn_chuangjian.png" />
+      <FilePathData Path="image/club/common2/btn_chuangjian2.png" />
+      <FilePathData Path="image/club/common2/btn_fuzhijulebu.png" />
+      <FilePathData Path="image/club/common2/btn_jinrujulebu.png" />
+      <FilePathData Path="image/club/common2/btn_queding.png" />
+      <FilePathData Path="image/club/common2/btn_quxiao.png" />
+      <FilePathData Path="image/club/common2/btn_shenqingjiaru.png" />
+      <FilePathData Path="image/club/common2/btn_sousuo.png" />
+      <FilePathData Path="image/club/common2/line.png" />
+      <FilePathData Path="image/club/common2/shuzikuangdi.png" />
+      <FilePathData Path="image/club/common2/wenzikuang.png" />
+      <FilePathData Path="image/club/common2/xiaoren.png" />
+      <FilePathData Path="image/club/common2/xiugaifuhao.png" />
+      <FilePathData Path="image/club/common2/btn_shuaxin.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

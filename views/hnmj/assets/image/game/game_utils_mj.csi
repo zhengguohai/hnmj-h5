@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="game_utils_mj" Type="Plist" ID="7e515eda-539a-40ff-9bec-19ced5678bcb" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/game_utils_mj/alpha.png" />
+      <FilePathData Path="image/game/game_utils_mj/compass.png" />
+      <FilePathData Path="image/game/game_utils_mj/compassbei.png" />
+      <FilePathData Path="image/game/game_utils_mj/compassdong.png" />
+      <FilePathData Path="image/game/game_utils_mj/compassnan.png" />
+      <FilePathData Path="image/game/game_utils_mj/compassxi.png" />
+      <FilePathData Path="image/game/game_utils_mj/disk_mark.png" />
+      <FilePathData Path="image/game/game_utils_mj/tile_pointer.png" />
+      <FilePathData Path="image/game/game_utils_mj/xuanzhong.png" />
+      <FilePathData Path="image/game/game_utils_mj/haidi.png" />
+      <FilePathData Path="image/game/game_utils_mj/bg_eff_outcard.png" />
+      <FilePathData Path="image/game/game_utils_mj/baoting.png" />
+      <FilePathData Path="image/game/game_utils_mj/jiezikaigang.png" />
+      <FilePathData Path="image/game/game_utils_mj/tm.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

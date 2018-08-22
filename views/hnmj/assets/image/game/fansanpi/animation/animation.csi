@@ -1,0 +1,83 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="animation" Type="Plist" ID="191cf0f9-90b1-4c4f-9e7b-1ce512d3746b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00003.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00004.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00005.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00006.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00007.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00008.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00009.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00010.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00011.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00012.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00013.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00014.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00015.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00016.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00017.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00018.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00019.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00020.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00021.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00022.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00023.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00024.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00025.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00026.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00027.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00028.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00029.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00030.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00031.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00032.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00033.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00034.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00035.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00036.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00037.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00038.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00039.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00040.png" />
+      <FilePathData Path="image/game/fansanpi/animation/dashai_00041.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00000.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00001.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00002.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00003.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00004.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00005.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00006.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00007.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00008.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00009.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00010.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00011.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00012.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00013.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00014.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00015.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00016.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00017.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00018.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00019.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00020.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00021.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00022.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00023.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00024.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00025.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00026.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00027.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00028.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00029.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00030.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00031.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00032.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00033.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00034.png" />
+      <FilePathData Path="image/game/fansanpi/animation/xipai_00035.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1048" />
+  </Content>
+</PlistInfoProjectFile>

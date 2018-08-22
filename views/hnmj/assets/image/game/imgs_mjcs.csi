@@ -1,0 +1,55 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="imgs_mjcs" Type="Plist" ID="1a653e86-db64-42ee-aed6-ed922f6f10ed" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/mjcs/game_btn_piao0.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_eff_shaizi1.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_eff_shaizi2.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_eff_shaizi3.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_eff_shaizi4.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_eff_shaizi5.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_eff_shaizi6.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_shaizi1.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_shaizi2.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_shaizi3.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_shaizi4.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_shaizi5.png" />
+      <FilePathData Path="image/game/mjcs/shaizi_shaizi6.png" />
+      <FilePathData Path="image/game/mjcs/game_piao.png" />
+      <FilePathData Path="image/game/mjcs/game_piao0.png" />
+      <FilePathData Path="image/game/mjcs/game_piao1.png" />
+      <FilePathData Path="image/game/mjcs/game_piao2.png" />
+      <FilePathData Path="image/game/mjcs/game_piao3.png" />
+      <FilePathData Path="image/game/mjcs/game_piao4.png" />
+      <FilePathData Path="image/game/mjcs/game_piao5.png" />
+      <FilePathData Path="image/game/mjcs/game_piaoadd.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_bbh1.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_bbh2.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_lls1.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_lls2.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_qys1.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_qys2.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_sx1.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_sx2.png" />
+      <FilePathData Path="image/game/mjcs/img_0_piao.png" />
+      <FilePathData Path="image/game/mjcs/img_1_piao.png" />
+      <FilePathData Path="image/game/mjcs/img_2_piao.png" />
+      <FilePathData Path="image/game/mjcs/img_3_piao.png" />
+      <FilePathData Path="image/game/mjcs/img_4_piao.png" />
+      <FilePathData Path="image/game/mjcs/img_5_piao.png" />
+      <FilePathData Path="image/game/mjcs/banbanhu.png" />
+      <FilePathData Path="image/game/mjcs/dasixi.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_jjg.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_st.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_yzh.png" />
+      <FilePathData Path="image/game/mjcs/hupai_eff_ztsx.png" />
+      <FilePathData Path="image/game/mjcs/jiejiegao.png" />
+      <FilePathData Path="image/game/mjcs/liuliushun.png" />
+      <FilePathData Path="image/game/mjcs/queyise.png" />
+      <FilePathData Path="image/game/mjcs/santong.png" />
+      <FilePathData Path="image/game/mjcs/yizhihua.png" />
+      <FilePathData Path="image/game/mjcs/zhongtusixi.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

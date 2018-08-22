@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="duiziEff" Type="Plist" ID="62f43ce9-ce0d-432c-ab7a-bb8b246d4d59" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/datongziImage/eff/duizi_left_1.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_left_2.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_left_3.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_left_4.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_left_5.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_left_6.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_left_7.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_left_8.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_right_1.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_right_2.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_right_3.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_right_4.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_right_5.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_right_6.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_right_7.png" />
+      <FilePathData Path="image/game/datongziImage/eff/duizi_right_8.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

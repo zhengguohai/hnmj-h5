@@ -1,0 +1,54 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="btn" Type="Plist" ID="0ceae7f4-2be0-4685-b3db-cf8da32175dc" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/club/btn/btn_area1.png" />
+      <FilePathData Path="image/club/btn/btn_area2.png" />
+      <FilePathData Path="image/club/btn/btn_back.png" />
+      <FilePathData Path="image/club/btn/btn_blue.png" />
+      <FilePathData Path="image/club/btn/btn_blue2.png" />
+      <FilePathData Path="image/club/btn/btn_blue3.png" />
+      <FilePathData Path="image/club/btn/btn_close.png" />
+      <FilePathData Path="image/club/btn/btn_close2.png" />
+      <FilePathData Path="image/club/btn/btn_down.png" />
+      <FilePathData Path="image/club/btn/btn_green.png" />
+      <FilePathData Path="image/club/btn/btn_green3.png" />
+      <FilePathData Path="image/club/btn/btn_help.png" />
+      <FilePathData Path="image/club/btn/btn_jia.png" />
+      <FilePathData Path="image/club/btn/btn_jiantou.png" />
+      <FilePathData Path="image/club/btn/btn_jiaru.png" />
+      <FilePathData Path="image/club/btn/btn_jiaru2.png" />
+      <FilePathData Path="image/club/btn/btn_left.png" />
+      <FilePathData Path="image/club/btn/btn_red.png" />
+      <FilePathData Path="image/club/btn/btn_red2.png" />
+      <FilePathData Path="image/club/btn/btn_shezhi.png" />
+      <FilePathData Path="image/club/btn/btn_tips.png" />
+      <FilePathData Path="image/club/btn/btn_up.png" />
+      <FilePathData Path="image/club/btn/btn_xiu.png" />
+      <FilePathData Path="image/club/btn/btn_xiugai.png" />
+      <FilePathData Path="image/club/btn/btn_yellow3.png" />
+      <FilePathData Path="image/club/btn/cbx_not1.png" />
+      <FilePathData Path="image/club/btn/cbx_not2.png" />
+      <FilePathData Path="image/club/btn/cbx_on1.png" />
+      <FilePathData Path="image/club/btn/cbx_on2.png" />
+      <FilePathData Path="image/club/btn/btn_chat_close.png" />
+      <FilePathData Path="image/club/btn/btn_chat_send.png" />
+      <FilePathData Path="image/club/btn/btn_chat_setting.png" />
+      <FilePathData Path="image/club/btn/btn_go.png" />
+      <FilePathData Path="image/club/btn/btn_left1.png" />
+      <FilePathData Path="image/club/btn/btn_left2.png" />
+      <FilePathData Path="image/club/btn/btn_right1.png" />
+      <FilePathData Path="image/club/btn/btn_right2.png" />
+      <FilePathData Path="image/club/btn/btn_xiugai2.png" />
+      <FilePathData Path="image/club/btn/btn_shuaxin.png" />
+      <FilePathData Path="image/club/btn/btn_close3.png" />
+      <FilePathData Path="image/club/btn/btn_bofang.png" />
+      <FilePathData Path="image/club/btn/btn_left3.png" />
+      <FilePathData Path="image/club/btn/btn_left4.png" />
+      <FilePathData Path="image/club/btn/btn_right3.png" />
+      <FilePathData Path="image/club/btn/btn_right4.png" />
+      <FilePathData Path="image/club/btn/shuaxin.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,47 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="hall" Type="Plist" ID="91ff20bc-d7a9-4122-81a7-5d99dc5b7004" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/hall/jinbichang.png" />
+      <FilePathData Path="image/hall/chuangjianfangjian.png" />
+      <FilePathData Path="image/hall/jiarufangjian.png" />
+      <FilePathData Path="image/hall/julebu.png" />
+      <FilePathData Path="image/hall/noticeBg.png" />
+      <FilePathData Path="image/hall/paohuzi.png" />
+      <FilePathData Path="image/hall/shangcheng.png" />
+      <FilePathData Path="image/hall/bisaichang.png" />
+      <FilePathData Path="image/hall/btn_chuangjianjulebu.png" />
+      <FilePathData Path="image/hall/btn_jiarujulebu.png" />
+      <FilePathData Path="image/hall/fangka.png" />
+      <FilePathData Path="image/hall/fenxiang.png" />
+      <FilePathData Path="image/hall/gonggao.png" />
+      <FilePathData Path="image/hall/jinbi.png" />
+      <FilePathData Path="image/hall/logol.png" />
+      <FilePathData Path="image/hall/shezhi.png" />
+      <FilePathData Path="image/hall/shuzidi.png" />
+      <FilePathData Path="image/hall/zhanji.png" />
+      <FilePathData Path="image/hall/dailizhongxin.png" />
+      <FilePathData Path="image/hall/fangka_fk.png" />
+      <FilePathData Path="image/hall/jinbi_jb.png" />
+      <FilePathData Path="image/hall/btn_fankui.png" />
+      <FilePathData Path="image/hall/di06.png" />
+      <FilePathData Path="image/hall/fankui.png" />
+      <FilePathData Path="image/hall/gongzai.png" />
+      <FilePathData Path="image/hall/guan.png" />
+      <FilePathData Path="image/hall/hui.png" />
+      <FilePathData Path="image/hall/jiahao.png" />
+      <FilePathData Path="image/hall/laba.png" />
+      <FilePathData Path="image/hall/shimingrenzheng.png" />
+      <FilePathData Path="image/hall/toumingdi.png" />
+      <FilePathData Path="image/hall/toumingtiao.png" />
+      <FilePathData Path="image/hall/touxiang.png" />
+      <FilePathData Path="image/hall/wo.png" />
+      <FilePathData Path="image/hall/yaoqingma.png" />
+      <FilePathData Path="image/hall/yuanbao.png" />
+      <FilePathData Path="image/hall/jinbichangwenhao.png" />
+      <FilePathData Path="image/hall/wenhao.png" />
+      <FilePathData Path="image/hall/wodefangjian.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

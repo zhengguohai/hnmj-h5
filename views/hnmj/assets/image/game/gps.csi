@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="gps" Type="Plist" ID="109b5b87-7419-4efc-88b2-e11c0e74d311" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/gps/bg.png" />
+      <FilePathData Path="image/game/gps/btn_close.png" />
+      <FilePathData Path="image/game/gps/btn_point_1.png" />
+      <FilePathData Path="image/game/gps/btn_point_2.png" />
+      <FilePathData Path="image/game/gps/line.png" />
+      <FilePathData Path="image/game/gps/point_1.png" />
+      <FilePathData Path="image/game/gps/point_2.png" />
+      <FilePathData Path="image/game/gps/di_gps.png" />
+      <FilePathData Path="image/game/gps/fangxiang_1.png" />
+      <FilePathData Path="image/game/gps/fangxiang_2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

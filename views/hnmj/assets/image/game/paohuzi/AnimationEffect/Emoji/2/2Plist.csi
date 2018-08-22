@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="2Plist" Type="Plist" ID="c911b678-304b-4b80-9f9c-321b85879330" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/2/1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/2/3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/2/5.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/2/7.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

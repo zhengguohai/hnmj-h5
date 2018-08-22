@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>反馈</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta http-equiv="Access-Control-Allow-Origin" content="*" />
+	<meta name="full-screen" content="true">
+    <meta name="screen-orientation" content="portrait">
+    <meta name="x5-fullscreen" content="true">
+    <meta name="360-fullscreen" content="true">
+	<link rel="stylesheet" href="/css/style.css">
+	<style>
+	input::-webkit-input-placeholder { /* WebKit browsers */
+  color:#ccc;
+font-size:12px; 
+
+  }
+input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  color:#ccc;
+font-size:12px; 
+  }
+input::-moz-placeholder { /* Mozilla Firefox 19+ */
+  color:#ccc;
+font-size:12px; 
+  }
+input:-ms-input-placeholder { /* Internet Explorer 10+ */
+  color:#ccc;
+font-size:12px; 
+  } 
+.placeholder {  
+color: #ccc; 
+font-size:12px; 
+} 
+	body{background-color: #fff7eb;font-family: "微软雅黑";max-width: 640px;margin: 0 auto;position: relative;}
+	h3{margin: 10px;}
+	.top{
+		padding: 10px;
+		background: #5a7094;
+		color:#fff;
+		font-size: 30px;
+		text-align: center;position: relative;
+		/*background: url("img/title1.png") no-repeat center center;*/
+
+	}
+	.top .left{width: 50px;height:50px;display: inline-block;position: absolute;right: 0;background: url("/img/btn_goback.png") no-repeat center center;-webkit-background-size: auto 100%;
+	background-size: auto 100%;}
+	.main{padding:10px 20px;}
+	.main li{text-align: left;margin: 10px auto;}
+	.main label{
+		color:#1f4327;float: left;font-size:18px;padding-right: 5px;
+		text-align: right;width:80px;height: 30px;line-height: 30px;display:block;
+	}
+	.ipt{float: left;
+		width:250px;height: 30px;line-height:30px;font-size:20px;display:block;background-color: #9aaeaf;border-radius: 30px;color: #fff;
+		box-shadow:inset 0px 1px 0px #566365;border: 1px solid #9aaeaf;padding-left: 10px;
+	}
+	.textarea{width:250px;height: 100px;display: block;background-color: #9aaeaf;border-radius: 5px;color: #fff;
+		box-shadow:inset 0px 1px 0px #566365;border: 1px solid #9aaeaf;padding: 5px;-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;}
+
+	.btn{margin: 0 auto;font-size: 26px;color:#fff;width: 162px;height: 50px;display:block;line-height: 50px;background: url('/img/btn_hongse.png') no-repeat center center;-webkit-background-size: auto 100% ;
+	background-size:auto 100% ;font-family: "微软雅黑";letter-spacing:1em;padding-left: 1em;}
+
+	.close{
+		width: 100px;
+		height: 30px;
+		line-height: 30px;
+		font-size: 16px;
+		margin-top: 10px;}
+	</style>
+
+</head>
+<body>
+	<section class="top"><i class="left" onclick="javascript:history.back(-1);"></i>问题反馈</section>
+	<ul class="main">
+		<li class="clearfix"><label for="contacts">联系人</label><input type="text" class="ipt" id="contacts" placeholder="请输入姓名"></li>
+		<li class="clearfix"><label for="contactsWay">联系方式</label><input type="text" class="ipt" id="contactsWay" placeholder="输入联系方式，以便我们及时联系您"></li>
+		<li class="clearfix"><label for="content">问题反馈</label><textarea name="意见" id="content" cols="30" rows="10" class="textarea" placeholder="请留下您的宝贵建议，我们将尽快回复"></textarea></li>
+	</ul>
+	
+	<button type="button" class="btn" onclick="myF()">确定</button>
+
+<section class="layout" style="display: none;">
+	<section class="errorMsg"></section>
+	<button type="button" class="btn close">关闭</button>
+</section>
+<section class="layout-bg"></section>
+
+</body>
+</html>
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script>
+    $(".layout .close,.layout-bg").click(function(event) {
+        $(".layout,.layout-bg").hide();
+    });
+	function myF(){
+		if($("#contacts").val()==""){
+			$(".errorMsg").html("请输入正确的姓名");
+			$(".layout,.layout-bg").show();
+			return;
+		}else if ($("#contactsWay").val()==""){
+            $(".errorMsg").html("联系方式不能为空");
+            $(".layout,.layout-bg").show();return;
+        }else if ($("#content").val()==""){
+            $(".errorMsg").html("问题反馈不能为空");
+            $(".layout,.layout-bg").show();
+            return;
+		}else{
+            $.ajax({
+                url: "/feedbackPost",
+                type: 'post',
+                data: {
+                    "token":"<%=token %>",
+                    "op":$("#content").val(),
+                    "contacts":$("#contacts").val(),
+                    "contactsWay":$("#contactsWay").val()
+				},
+                success:function(res){
+                    console.log(res);
+                    if(res.flag){
+                        $(".errorMsg").html(res.msg);
+                        $(".layout,.layout-bg").show();
+                        window.history.back(-1);
+                    }else{
+                        $(".errorMsg").html(res.msg);
+                        $(".layout,.layout-bg").show();
+                    }
+                }
+
+            });
+		}
+	}
+</script>

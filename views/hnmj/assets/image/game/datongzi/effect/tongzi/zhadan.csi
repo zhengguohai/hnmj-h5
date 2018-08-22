@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="zhadan" Type="Plist" ID="3102cccf-bdff-49e2-a9ba-dd9646969b51" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0001.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0002.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0003.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0004.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0005.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0006.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0007.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0008.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0009.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0010.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0011.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0012.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0013.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0014.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0015.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0016.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0017.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0018.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0019.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0020.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0021.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/adtzAM2_0022.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

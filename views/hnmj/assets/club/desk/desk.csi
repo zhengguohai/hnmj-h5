@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="desk" Type="Plist" ID="96405e03-39c3-407b-ba7b-d33ff7d2f6a8" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/club/desk/btn_info.png" />
+      <FilePathData Path="image/club/desk/duanxian.png" />
+      <FilePathData Path="image/club/desk/numb_bg.png" />
+      <FilePathData Path="image/club/desk/clockBg.png" />
+      <FilePathData Path="image/club/desk/desk_mj_normal3.png" />
+      <FilePathData Path="image/club/desk/desk_mj_normal4.png" />
+      <FilePathData Path="image/club/desk/desk_mj_playing3.png" />
+      <FilePathData Path="image/club/desk/desk_mj_playing4.png" />
+      <FilePathData Path="image/club/desk/desk_mj_wait3.png" />
+      <FilePathData Path="image/club/desk/desk_mj_wait4.png" />
+      <FilePathData Path="image/club/desk/desk_nn_normal.png" />
+      <FilePathData Path="image/club/desk/desk_nn_playing.png" />
+      <FilePathData Path="image/club/desk/desk_nn_wait.png" />
+      <FilePathData Path="image/club/desk/desk_qp_normal3.png" />
+      <FilePathData Path="image/club/desk/desk_qp_normal4.png" />
+      <FilePathData Path="image/club/desk/desk_qp_playing3.png" />
+      <FilePathData Path="image/club/desk/desk_qp_playing4.png" />
+      <FilePathData Path="image/club/desk/desk_qp_wait3.png" />
+      <FilePathData Path="image/club/desk/desk_qp_wait4.png" />
+      <FilePathData Path="image/club/desk/desk_qp_normal2.png" />
+      <FilePathData Path="image/club/desk/desk_qp_playing2.png" />
+      <FilePathData Path="image/club/desk/desk_qp_wait2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="share" Type="Plist" ID="9ef666f7-45f7-40b5-8144-09bbcbea5ef0" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/share/1.png" />
+      <FilePathData Path="image/share/2.png" />
+      <FilePathData Path="image/share/3.png" />
+      <FilePathData Path="image/share/4.png" />
+      <FilePathData Path="image/share/btn_shareDaily.png" />
+      <FilePathData Path="image/share/btn_shareGame.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

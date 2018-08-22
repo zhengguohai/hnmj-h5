@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="cowPlist" Type="Plist" ID="0fb72bf9-3a6a-4ff1-a88c-972b46304c6c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/douniu/anima_start/cow/ann_00.png" />
+      <FilePathData Path="image/game/douniu/anima_start/cow/ann_01.png" />
+      <FilePathData Path="image/game/douniu/anima_start/cow/ann_02.png" />
+      <FilePathData Path="image/game/douniu/anima_start/cow/ann_03.png" />
+      <FilePathData Path="image/game/douniu/anima_start/cow/ann_04.png" />
+      <FilePathData Path="image/game/douniu/anima_start/cow/ann_05.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

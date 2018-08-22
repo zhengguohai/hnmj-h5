@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="pdkOtherImg" Type="Plist" ID="83f43a79-e4b9-4f29-a9ca-1ecf1fa878b5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/datongziImage/hongtao10.png" />
+      <FilePathData Path="image/game/datongziImage/imgx2.png" />
+      <FilePathData Path="image/game/datongziImage/ll.png" />
+      <FilePathData Path="image/game/datongziImage/pdkjshei.png" />
+      <FilePathData Path="image/game/datongziImage/pdkjsquan.png" />
+      <FilePathData Path="image/game/datongziImage/resultUI_success.png" />
+      <FilePathData Path="image/game/datongziImage/sheng.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

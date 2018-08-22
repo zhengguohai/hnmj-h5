@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="LyzpPlist" Type="Plist" ID="0395a2fa-8640-45fe-b3ec-1392ccf3cfe7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Lyzp/btn_busishou1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Lyzp/btn_busishou2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Lyzp/btn_sishou1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Lyzp/btn_sishou2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Lyzp/sishu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Lyzp/room_result_sishou.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

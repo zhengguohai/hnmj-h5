@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="AnimWinPlist" Type="Plist" ID="32020a76-32e2-4034-b3c9-07f021a92bf3" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/Win/Win_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/Win/Win_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/Win/Win_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/Win/Win_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/Win/Win_5.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/Win/Win_6.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/Win/Win_7.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/Win/Win_8.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/Win/Win_9.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/Win/Win_90.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

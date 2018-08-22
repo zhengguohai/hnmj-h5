@@ -1,0 +1,49 @@
+html{
+	overflow: hidden;
+	height: 100% !important;
+	}
+body{
+	display: block;
+	margin: 0px !important;
+	height: 100% !important;
+}
+.can-landscape{
+	top:100%;
+	transform:rotate(-90deg);
+	transform-origin: 0 0;
+	position: fixed
+}
+div,input{
+	-webkit-overflow-scrolling:touch;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+#can-input{
+	position: fixed;height: 64px;width: 100%;font-size:24px;visibility:hidden;top:0px
+}
+#can-select{
+	position: absolute;width: 100%;height: 32px;visibility:hidden;top:0px
+}
+.can-treenode:hover{
+	fill:rgba(232,33,55,0.3)
+}
+.can-edit:hover{
+	stroke: rgba(232,33,55,0.3);
+	stroke-width:4
+}
+.can-grid{
+	fill:rgba(232,33,55,1)
+}
+.can-hidden{
+	visibility: hidden;
+}
+foreignObject{
+	overflow: overlay;
+}
+text{
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -o-user-select: none;
+        user-select: none;
+        cursor :default;
+    }

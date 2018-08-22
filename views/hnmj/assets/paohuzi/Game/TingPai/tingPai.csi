@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="tingPai" Type="Plist" ID="0d373248-48e2-4525-970f-7c5839a94cc6" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/10.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/11.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/12.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/13.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/14.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/15.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/16.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/17.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/18.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/19.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/20.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/3.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/4.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/5.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/6.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/7.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/8.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/9.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/toumingdi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/TingPai/txt_ting.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

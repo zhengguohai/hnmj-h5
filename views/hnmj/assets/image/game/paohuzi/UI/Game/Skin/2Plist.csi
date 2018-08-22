@@ -1,0 +1,40 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="2Plist" Type="Plist" ID="766f68ee-7b98-4370-9ddd-ae66a96069a9" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/10.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/11.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/12.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/13.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/14.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/15.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/16.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/17.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/18.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/3.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/4.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/5.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/6.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/7.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/8.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/9.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/bg.jpg" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/hezi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/power_1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/power_2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/wifi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/card_bg_l.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/card_bg_s.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/19.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/20.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/21.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/22.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/23.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/24.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Skin/2/25.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

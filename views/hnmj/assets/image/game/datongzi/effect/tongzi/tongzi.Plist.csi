@@ -1,0 +1,27 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="tongzi.Plist" Type="Plist" ID="e515b486-a9fd-47b3-af7b-f7c691633c90" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_01.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_02.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_03.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_04.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_05.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_06.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_07.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_08.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_09.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_10.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_11.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_12.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_13.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_14.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_15.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_16.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_17.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_18.png" />
+      <FilePathData Path="image/game/datongzi/effect/tongzi/bomb_19.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

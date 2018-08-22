@@ -1,0 +1,47 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="title" Type="Plist" ID="ee3d5ad6-74b1-416d-b24c-e76992bf7734" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/club/title/title_bangzhu.png" />
+      <FilePathData Path="image/club/title/title_bg1.png" />
+      <FilePathData Path="image/club/title/title_bg2.png" />
+      <FilePathData Path="image/club/title/title_chengyuanliebiao.png" />
+      <FilePathData Path="image/club/title/title_chengyuanliebiao2.png" />
+      <FilePathData Path="image/club/title/title_chuangjianchenggong.png" />
+      <FilePathData Path="image/club/title/title_chuangjiangfangjian.png" />
+      <FilePathData Path="image/club/title/title_chuangjianjulebu.png" />
+      <FilePathData Path="image/club/title/title_chuangjianshibai.png" />
+      <FilePathData Path="image/club/title/title_gerenzhanji.png" />
+      <FilePathData Path="image/club/title/title_gonggao.png" />
+      <FilePathData Path="image/club/title/title_jiarujulebu.png" />
+      <FilePathData Path="image/club/title/title_jiesanfangjian.png" />
+      <FilePathData Path="image/club/title/title_julebu.png" />
+      <FilePathData Path="image/club/title/title_julebugonggao.png" />
+      <FilePathData Path="image/club/title/title_julebujieshao.png" />
+      <FilePathData Path="image/club/title/title_julebushezhi.png" />
+      <FilePathData Path="image/club/title/title_julebutequan.png" />
+      <FilePathData Path="image/club/title/title_kuaisukaifang.png" />
+      <FilePathData Path="image/club/title/title_lishixiaoxi.png" />
+      <FilePathData Path="image/club/title/title_shenqingliebiao.png" />
+      <FilePathData Path="image/club/title/title_shuoming.png" />
+      <FilePathData Path="image/club/title/title_wanfa.png" />
+      <FilePathData Path="image/club/title/title_wenxingtishi.png" />
+      <FilePathData Path="image/club/title/title_xuanzehuizhang.png" />
+      <FilePathData Path="image/club/title/title_youxiguanli.png" />
+      <FilePathData Path="image/club/title/title_tishi.png" />
+      <FilePathData Path="image/club/title/title_xuanzewanfa.png" />
+      <FilePathData Path="image/club/title/title_fangjianxinxi.png" />
+      <FilePathData Path="image/club/title/title_fangkatongji.png" />
+      <FilePathData Path="image/club/title/title_jieshufangjian.png" />
+      <FilePathData Path="image/club/title/title_chuangjianwanfa.png" />
+      <FilePathData Path="image/club/title/title_renmingguanliyuan.png" />
+      <FilePathData Path="image/club/title/title_renmingguanliyuan2.png" />
+      <FilePathData Path="image/club/title/title_yaoqingchengyuan.png" />
+      <FilePathData Path="image/club/title/title_yaoqingchengyuan2.png" />
+      <FilePathData Path="image/club/title/title_yaoqingjiaru.png" />
+      <FilePathData Path="image/club/title/title_zhanji.png" />
+      <FilePathData Path="image/club/title/title_qiehuanjulebu.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

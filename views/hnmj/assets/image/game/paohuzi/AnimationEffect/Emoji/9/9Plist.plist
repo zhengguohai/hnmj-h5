@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,243},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,485},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,727},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/17.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,1},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/19.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{485,1},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/21.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{727,1},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/23.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,243},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,485},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,727},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{485,243},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Emoji/9/9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{727,243},{240,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{240,240}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>9Plist.png</string>
+			<key>realTextureFileName</key>
+			<string>9Plist.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

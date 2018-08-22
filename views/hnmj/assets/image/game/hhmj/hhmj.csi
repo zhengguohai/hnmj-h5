@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="hhmj" Type="Plist" ID="e8c9df0d-55dd-43f0-9de4-18b47375e8f1" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/hhmj/btn_bujiafen.png" />
+      <FilePathData Path="image/game/hhmj/btn_jia0fen.png" />
+      <FilePathData Path="image/game/hhmj/btn_jia1fen.png" />
+      <FilePathData Path="image/game/hhmj/btn_jia2fen.png" />
+      <FilePathData Path="image/game/hhmj/btn_jia3fen.png" />
+      <FilePathData Path="image/game/hhmj/btn_jia4fen.png" />
+      <FilePathData Path="image/game/hhmj/btn_jia5fen.png" />
+      <FilePathData Path="image/game/hhmj/buzhang.png" />
+      <FilePathData Path="image/game/hhmj/dashai.png" />
+      <FilePathData Path="image/game/hhmj/fenicon.png" />
+      <FilePathData Path="image/game/hhmj/txt_dingfenzhong.png" />
+      <FilePathData Path="image/game/hhmj/txt_yidingfen.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

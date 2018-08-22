@@ -1,0 +1,19 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="ChatPlist" Type="Plist" ID="bbc6a7a9-392f-46ad-b2d3-f0ad25843448" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/Btn_ChatImage1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/Btn_ChatImage2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/Btn_ChatSound1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/Btn_ChatSound2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/diban.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/diban2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/liaotiandi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/line.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/shurukuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/title.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Chat/close.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

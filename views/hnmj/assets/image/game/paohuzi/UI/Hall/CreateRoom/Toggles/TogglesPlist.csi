@@ -1,0 +1,50 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="TogglesPlist" Type="Plist" ID="e80cad2b-2c58-4448-a6cd-4f5985712534" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_cdbmt_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_cdbmt_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_cdqmt_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_cdqmt_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_csphz_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_csphz_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_czmhz_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_czmhz_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_hhhgw_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_hhhgw_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_hylhq_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_hylhq_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_hyshk_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_hyshk_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_ldfpf_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_ldfpf_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_lyzp_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_lyzp_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_qdlhq_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_qdlhq_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_qdzp_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_qdzp_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_sybp_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_sybp_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_syzp_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_syzp_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_xxghz_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_xxghz_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_yxphz_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_yxphz_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_yywhz_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_yywhz_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_yzchz_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_yzchz_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_hyswh_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_hyswh_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_bjshz_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_bjshz_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_ahphz_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_ahphz_on.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_clxzp_off.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/CreateRoom/Toggles/Toggle_clxzp_on.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

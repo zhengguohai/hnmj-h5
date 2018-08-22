@@ -1,0 +1,15 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CreateRoomPlist" Type="Plist" ID="b384b851-7569-4338-bb0b-30e46df1306d" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Hall/NewCreateRoom/gou.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/NewCreateRoom/p3.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/NewCreateRoom/sikuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/NewCreateRoom/yeqian1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/NewCreateRoom/yeqian2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/NewCreateRoom/yuandian.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Hall/NewCreateRoom/zuijin.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

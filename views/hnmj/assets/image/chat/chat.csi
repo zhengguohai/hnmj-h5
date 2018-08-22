@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="chat" Type="Plist" ID="afaa7063-18b6-45e3-9af2-9d7d7e86dc1e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/chat/img_speakbg.png" />
+      <FilePathData Path="image/chat/quan1.png" />
+      <FilePathData Path="image/chat/quan2.png" />
+      <FilePathData Path="image/chat/btn_yeqian_biaoqing1.png" />
+      <FilePathData Path="image/chat/btn_yeqian_biaoqing2.png" />
+      <FilePathData Path="image/chat/btn_yeqian_yuyin1.png" />
+      <FilePathData Path="image/chat/btn_yeqian_yuyin2.png" />
+      <FilePathData Path="image/chat/1_0.png" />
+      <FilePathData Path="image/chat/1_7.png" />
+      <FilePathData Path="image/chat/beijingluyin.png" />
+      <FilePathData Path="image/chat/btn_yq_lvse_1.png" />
+      <FilePathData Path="image/chat/btn_yq_lvse_2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

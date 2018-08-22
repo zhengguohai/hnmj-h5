@@ -1,0 +1,49 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="ResultPlist" Type="Plist" ID="a37b17d6-ef21-4bd5-8b41-e374d62c45e5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_Again.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_Continue.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_HandCards.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_Ready.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_Share.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_XuanYao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/ResultFrame.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/YouLose.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/YouWin.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Hu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/FrameHandCard.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/TitleHandCards.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Winner.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Close.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Chi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Hu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Jiang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Kan.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Liu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Pao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Peng.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Ti.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Wei.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/wai.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Fan.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Host.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Jiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Long.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Qing.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Shun.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Xiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Zhuai.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_Again_2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_HandCards_2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_Ready_2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_Share_2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Btn_XuanYao_2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/huangzang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/YuPai.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/DiPai.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/Result_Diao.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

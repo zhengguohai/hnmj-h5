@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/Win/Win_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1037,1082},{458,434}}</string>
+				<key>offset</key>
+				<string>{-2,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{648,529}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/Win/Win_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1154},{564,529}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{648,529}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/Win/Win_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{532,1089},{575,503}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{648,529}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/Win/Win_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1011,506},{574,503}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{648,529}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/Win/Win_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1516,506},{574,503}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{648,529}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/Win/Win_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{506,506},{581,503}}</string>
+				<key>offset</key>
+				<string>{-1,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{648,529}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/Win/Win_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{648,503}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,529}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/Win/Win_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{651,1},{648,503}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,529}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/Win/Win_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1301,1},{648,503}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{648,529}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/Win/Win_90.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,506},{646,503}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{648,529}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AnimWinPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>AnimWinPlist.png</string>
+			<key>size</key>
+			<string>{2048,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

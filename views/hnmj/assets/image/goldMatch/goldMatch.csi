@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="goldMatch" Type="Plist" ID="3dea92b3-104a-495b-bc8d-7dd27925c51e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/goldMatch/gaoshouchang.png" />
+      <FilePathData Path="image/goldMatch/tuhaochang.png" />
+      <FilePathData Path="image/goldMatch/xinshouchang.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

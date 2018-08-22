@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="PaohuziActions" Type="Plist" ID="4983a0e0-4017-43e8-9d07-7fdc0df4839f" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/chi.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/chou_wei.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/chou_xiao.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/hu.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/ju_shou.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/kai_zhao.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/liu.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/long.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/pao.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/peng.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/qing.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/san_da.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/si_qing.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/ti.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/wai.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/wang_chuang.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/wang_diao.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/wei.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/xian_mingzhao.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/xiao.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Actions/zhuai.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

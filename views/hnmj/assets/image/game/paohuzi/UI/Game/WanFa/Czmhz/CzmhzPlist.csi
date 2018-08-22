@@ -1,0 +1,11 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CzmhzPlist" Type="Plist" ID="126fadf4-2e7b-43c3-998e-a1f089a2f838" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Syzp/Deng.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Czmhz/Long.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Czmhz/Tuo.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

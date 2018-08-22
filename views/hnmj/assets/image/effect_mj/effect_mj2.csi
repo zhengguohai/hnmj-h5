@@ -1,0 +1,33 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="effect_mj2" Type="Plist" ID="ac241499-8307-467e-85ba-c6ec74f31305" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/effect_mj/text/txt_angang.png" />
+      <FilePathData Path="image/effect_mj/text/txt_chi.png" />
+      <FilePathData Path="image/effect_mj/text/txt_dianpao.png" />
+      <FilePathData Path="image/effect_mj/text/txt_fanggang.png" />
+      <FilePathData Path="image/effect_mj/text/txt_fangpao.png" />
+      <FilePathData Path="image/effect_mj/text/txt_gang.png" />
+      <FilePathData Path="image/effect_mj/text/txt_gangshanghua.png" />
+      <FilePathData Path="image/effect_mj/text/txt_gangshangpao.png" />
+      <FilePathData Path="image/effect_mj/text/txt_gonggang.png" />
+      <FilePathData Path="image/effect_mj/text/txt_haidilao.png" />
+      <FilePathData Path="image/effect_mj/text/txt_haidipao.png" />
+      <FilePathData Path="image/effect_mj/text/txt_hu.png" />
+      <FilePathData Path="image/effect_mj/text/txt_jiegang.png" />
+      <FilePathData Path="image/effect_mj/text/txt_minggang.png" />
+      <FilePathData Path="image/effect_mj/text/txt_peng.png" />
+      <FilePathData Path="image/effect_mj/text/txt_penggang.png" />
+      <FilePathData Path="image/effect_mj/text/txt_qiangganghu.png" />
+      <FilePathData Path="image/effect_mj/text/txt_yigangduopao.png" />
+      <FilePathData Path="image/effect_mj/text/txt_yipaoduoxiang.png" />
+      <FilePathData Path="image/effect_mj/text/txt_zhuapao.png" />
+      <FilePathData Path="image/effect_mj/text/txt_zimo.png" />
+      <FilePathData Path="image/effect_mj/text/txt_diandian.png" />
+      <FilePathData Path="image/effect_mj/text/txt_huanghuang.png" />
+      <FilePathData Path="image/effect_mj/text/txt_zhulongzi.png" />
+      <FilePathData Path="image/effect_mj/text/txt_buzhang.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

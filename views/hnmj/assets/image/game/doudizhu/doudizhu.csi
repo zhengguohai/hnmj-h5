@@ -1,0 +1,34 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="doudizhu" Type="Plist" ID="0905e746-c61b-48d5-bf47-b0e2852ea88c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/doudizhu/game_icon_dizhu.png" />
+      <FilePathData Path="image/game/doudizhu/OK.png" />
+      <FilePathData Path="image/game/doudizhu/game_text_wupai.png" />
+      <FilePathData Path="image/game/doudizhu/game_paishu_bg.png" />
+      <FilePathData Path="image/game/doudizhu/hongdi.png" />
+      <FilePathData Path="image/game/doudizhu/huangdi.png" />
+      <FilePathData Path="image/game/doudizhu/sheng.png" />
+      <FilePathData Path="image/game/doudizhu/shengli.png" />
+      <FilePathData Path="image/game/doudizhu/andi.png" />
+      <FilePathData Path="image/game/doudizhu/shibian.png" />
+      <FilePathData Path="image/game/doudizhu/result_spring.png" />
+      <FilePathData Path="image/game/doudizhu/zhanji.png" />
+      <FilePathData Path="image/game/doudizhu/di00.png" />
+      <FilePathData Path="image/game/doudizhu/btn_fenxiangyouxi.png" />
+      <FilePathData Path="image/game/doudizhu/btn_jixuyouxi.png" />
+      <FilePathData Path="image/game/doudizhu/dikuan_1.png" />
+      <FilePathData Path="image/game/doudizhu/dikuan_2.png" />
+      <FilePathData Path="image/game/doudizhu/di2.png" />
+      <FilePathData Path="image/game/doudizhu/fu.png" />
+      <FilePathData Path="image/game/doudizhu/ping.png" />
+      <FilePathData Path="image/game/doudizhu/yeqian_fangzhu.png" />
+      <FilePathData Path="image/game/doudizhu/yeqian_sihang.png" />
+      <FilePathData Path="image/game/doudizhu/zongchengji.png" />
+      <FilePathData Path="image/game/doudizhu/btn_fanhuidating.png" />
+      <FilePathData Path="image/game/doudizhu/yeqian_dayingjia.png" />
+      <FilePathData Path="image/game/doudizhu/biaoshi_dayingjia.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

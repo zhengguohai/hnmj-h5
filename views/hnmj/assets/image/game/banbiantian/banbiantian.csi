@@ -1,0 +1,55 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="banbiantian" Type="Plist" ID="0905e746-c61b-48d5-bf47-b0e2852ea88c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/banbiantian/game_icon_dizhu.png" />
+      <FilePathData Path="image/game/banbiantian/OK.png" />
+      <FilePathData Path="image/game/banbiantian/game_text_wupai.png" />
+      <FilePathData Path="image/game/banbiantian/game_paishu_bg.png" />
+      <FilePathData Path="image/game/banbiantian/sheng.png" />
+      <FilePathData Path="image/game/banbiantian/result_spring.png" />
+      <FilePathData Path="image/game/banbiantian/di00.png" />
+      <FilePathData Path="image/game/banbiantian/btn_fenxiangyouxi.png" />
+      <FilePathData Path="image/game/banbiantian/btn_jixuyouxi.png" />
+      <FilePathData Path="image/game/banbiantian/dikuan_1.png" />
+      <FilePathData Path="image/game/banbiantian/dikuan_2.png" />
+      <FilePathData Path="image/game/banbiantian/di2.png" />
+      <FilePathData Path="image/game/banbiantian/fu.png" />
+      <FilePathData Path="image/game/banbiantian/ping.png" />
+      <FilePathData Path="image/game/banbiantian/yeqian_fangzhu.png" />
+      <FilePathData Path="image/game/banbiantian/yeqian_sihang.png" />
+      <FilePathData Path="image/game/banbiantian/zongchengji.png" />
+      <FilePathData Path="image/game/banbiantian/btn_fanhuidating.png" />
+      <FilePathData Path="image/game/banbiantian/yeqian_dayingjia.png" />
+      <FilePathData Path="image/game/banbiantian/biaoshi_dayingjia.png" />
+      <FilePathData Path="image/game/banbiantian/game_btnbg.png" />
+      <FilePathData Path="image/game/banbiantian/img_chui.png" />
+      <FilePathData Path="image/game/banbiantian/img_dou.png" />
+      <FilePathData Path="image/game/banbiantian/img_fandou.png" />
+      <FilePathData Path="image/game/banbiantian/img_fanqiang.png" />
+      <FilePathData Path="image/game/banbiantian/img_kaiqiang.png" />
+      <FilePathData Path="image/game/banbiantian/img_touxiang.png" />
+      <FilePathData Path="image/game/banbiantian/img_zhudou.png" />
+      <FilePathData Path="image/game/banbiantian/jifenban.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/fra_dangzhuangwang.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/fra_shangyouwang.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/icon_xianjia.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/icon_zhuangjia.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_dizha.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_duizi.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_feiji.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_fu510k.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_liandui.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_sanzhang.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_shunzi.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_sizha.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_tianzha.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_tonghuashun.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_zheng510k.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_danzhang.png" />
+      <FilePathData Path="image/game/banbiantian/jiesuan/px_sizhang.png" />
+      <FilePathData Path="image/game/banbiantian/bg_you.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

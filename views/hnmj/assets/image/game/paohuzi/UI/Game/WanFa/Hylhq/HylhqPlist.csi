@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="HylhqPlist" Type="Plist" ID="60cd5b2d-ef17-46d6-9a58-bab4195a0cf5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Btn_Exit.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Btn_Setting.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Btn_WanFa.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/FenShubg.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/head.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/BeiShu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/ChaKan.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/DangJuFenShu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/HuXi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/LeiJiFenShu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/MingTang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/RoomResultText.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Title.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/TunShu.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

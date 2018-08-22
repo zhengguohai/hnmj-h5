@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,266},{334,238}}</string>
+				<key>offset</key>
+				<string>{-89,16}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{513,270}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{823,371},{382,179}}</string>
+				<key>offset</key>
+				<string>{-60,-31}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{513,270}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{443,263}}</string>
+				<key>offset</key>
+				<string>{-33,2}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{513,270}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{446,185},{498,184}}</string>
+				<key>offset</key>
+				<string>{-6,-42}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{513,270}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{446,1},{507,182}}</string>
+				<key>offset</key>
+				<string>{2,-44}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{513,270}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,266},{483,167}}</string>
+				<key>offset</key>
+				<string>{14,-51}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{513,270}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,751},{449,166}}</string>
+				<key>offset</key>
+				<string>{32,-51}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{513,270}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{410,371},{411,167}}</string>
+				<key>offset</key>
+				<string>{38,-51}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{513,270}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{170,602},{320,145}}</string>
+				<key>offset</key>
+				<string>{5,-40}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{513,270}</string>
+			</dict>
+			<key>image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_90.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{452,749},{319,144}}</string>
+				<key>offset</key>
+				<string>{4,-41}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{513,270}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>AnimHuangZhuangPlist.png</string>
+			<key>realTextureFileName</key>
+			<string>AnimHuangZhuangPlist.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

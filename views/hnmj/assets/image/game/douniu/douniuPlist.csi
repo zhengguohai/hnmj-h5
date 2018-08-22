@@ -1,0 +1,82 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="douniuPlist" Type="Plist" ID="29ee2b61-2dd3-4daa-9294-93aacc4f31f2" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/douniu/xiazhu/btn_xiazhu.png" />
+      <FilePathData Path="image/game/douniu/xiazhu/gold.png" />
+      <FilePathData Path="image/game/douniu/xiazhu/xiazhu_bg.png" />
+      <FilePathData Path="image/game/douniu/xiazhu/xiazhu_fen.png" />
+      <FilePathData Path="image/game/douniu/qiangzhuang/btn_buqiang.png" />
+      <FilePathData Path="image/game/douniu/qiangzhuang/btn_qiang.png" />
+      <FilePathData Path="image/game/douniu/xiazhu_dougongniu/btn_dgnxiazhu.png" />
+      <FilePathData Path="image/game/douniu/xiazhu_dougongniu/btn_ruler.png" />
+      <FilePathData Path="image/game/douniu/xiazhu_dougongniu/img_num.png" />
+      <FilePathData Path="image/game/douniu/xiazhu_dougongniu/img_ruler.png" />
+      <FilePathData Path="image/game/douniu/qiangzhuang/get_zhuang.png" />
+      <FilePathData Path="image/game/douniu/xiazhu_dougongniu/img_rulerbg.png" />
+      <FilePathData Path="image/game/douniu/xiazhu_dougongniu/img_rulerbg2.png" />
+      <FilePathData Path="image/game/douniu/xiazhu_dougongniu/img_bg2.png" />
+      <FilePathData Path="image/game/douniu/xiazhuang/btn_xiazhuang.png" />
+      <FilePathData Path="image/game/douniu/xiazhuang/btn_zouzhuang.png" />
+      <FilePathData Path="image/game/douniu/smallSummary/btn_close.png" />
+      <FilePathData Path="image/game/douniu/smallSummary/btn_continue.png" />
+      <FilePathData Path="image/game/douniu/smallSummary/btn_share.png" />
+      <FilePathData Path="image/game/douniu/smallSummary/info_bg.png" />
+      <FilePathData Path="image/game/douniu/smallSummary/one_bg.png" />
+      <FilePathData Path="image/game/douniu/smallSummary/sum_bg.png" />
+      <FilePathData Path="image/game/douniu/smallSummary/title_fail.png" />
+      <FilePathData Path="image/game/douniu/smallSummary/title_succ.png" />
+      <FilePathData Path="image/game/douniu/room_info/fengexian.png" />
+      <FilePathData Path="image/game/douniu/room_info/title.png" />
+      <FilePathData Path="image/game/douniu/allSummary/fangzhu.png" />
+      <FilePathData Path="image/game/douniu/allSummary/one_winner.png" />
+      <FilePathData Path="image/game/douniu/allSummary/score_bg.png" />
+      <FilePathData Path="image/game/douniu/allSummary/title.png" />
+      <FilePathData Path="image/game/douniu/player/img_canopen.png" />
+      <FilePathData Path="image/game/douniu/player/img_clickopen.png" />
+      <FilePathData Path="image/game/douniu/player/img_fangzhu.png" />
+      <FilePathData Path="image/game/douniu/player/img_head.png" />
+      <FilePathData Path="image/game/douniu/player/img_head_bg.png" />
+      <FilePathData Path="image/game/douniu/player/img_zhuangjia.png" />
+      <FilePathData Path="image/game/douniu/player/OK.png" />
+      <FilePathData Path="image/game/douniu/room/btn_buqiangzhuang.png" />
+      <FilePathData Path="image/game/douniu/room/btn_cuopai.png" />
+      <FilePathData Path="image/game/douniu/room/btn_exit.png" />
+      <FilePathData Path="image/game/douniu/room/btn_help.png" />
+      <FilePathData Path="image/game/douniu/room/btn_kaipai.png" />
+      <FilePathData Path="image/game/douniu/room/btn_mcro.png" />
+      <FilePathData Path="image/game/douniu/room/btn_qiangzhuang.png" />
+      <FilePathData Path="image/game/douniu/room/btn_require.png" />
+      <FilePathData Path="image/game/douniu/room/btn_roominfo.png" />
+      <FilePathData Path="image/game/douniu/room/btn_set.png" />
+      <FilePathData Path="image/game/douniu/room/btn_talk.png" />
+      <FilePathData Path="image/game/douniu/room/btn_zhunbei.png" />
+      <FilePathData Path="image/game/douniu/xiazhu_dougongniu/btn_xiazhu_dgn.png" />
+      <FilePathData Path="image/game/douniu/room/btn_fanpai.png" />
+      <FilePathData Path="image/game/douniu/room/btn_tishi.png" />
+      <FilePathData Path="image/game/douniu/player/img_score.png" />
+      <FilePathData Path="image/game/douniu/qiangzhuang/img_bei.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/btn_share2.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/img_close2.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/img_icon2.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/img_info_fra.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/img_info_fra_self.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/img_return2.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/img_title_fra.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/img_title2.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/img9_glass.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/btn_close3.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/img9_bg.png" />
+      <FilePathData Path="image/game/douniu/allSummary2/img_icon2_bg.png" />
+      <FilePathData Path="image/game/douniu/xiazhu/img_tips_bg.png" />
+      <FilePathData Path="image/game/douniu/xiazhu/img_tips_xiazhu.png" />
+      <FilePathData Path="image/game/douniu/xiazhu_dougongniu/img_guodi.png" />
+      <FilePathData Path="image/game/douniu/room/btn_copyroomnum.png" />
+      <FilePathData Path="image/game/douniu/room/btn_cancel_trush.png" />
+      <FilePathData Path="image/game/douniu/room/btn_trush.png" />
+      <FilePathData Path="image/game/douniu/room/title_niuniu.png" />
+      <FilePathData Path="image/game/douniu/player/img_trust.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

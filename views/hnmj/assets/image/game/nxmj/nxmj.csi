@@ -1,0 +1,43 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="nxmj" Type="Plist" ID="96fe6607-3ae1-45a0-81c5-990eb88e337d" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/nxmj/beimian_big.png" />
+      <FilePathData Path="image/game/nxmj/beimian_small.png" />
+      <FilePathData Path="image/game/nxmj/btn_fengdong.png" />
+      <FilePathData Path="image/game/nxmj/eff1.png" />
+      <FilePathData Path="image/game/nxmj/eff2.png" />
+      <FilePathData Path="image/game/nxmj/eff3.png" />
+      <FilePathData Path="image/game/nxmj/eff4.png" />
+      <FilePathData Path="image/game/nxmj/eff5.png" />
+      <FilePathData Path="image/game/nxmj/eff6.png" />
+      <FilePathData Path="image/game/nxmj/fengdong.jpg" />
+      <FilePathData Path="image/game/nxmj/point_num.png" />
+      <FilePathData Path="image/game/nxmj/ting.png" />
+      <FilePathData Path="image/game/nxmj/toumingdi_1.png" />
+      <FilePathData Path="image/game/nxmj/pai_di.png" />
+      <FilePathData Path="image/game/nxmj/btn_chun.png" />
+      <FilePathData Path="image/game/nxmj/btn_zheng.png" />
+      <FilePathData Path="image/game/nxmj/banbanhu.png" />
+      <FilePathData Path="image/game/nxmj/bsh_dasixi.png" />
+      <FilePathData Path="image/game/nxmj/bsh_datong.png" />
+      <FilePathData Path="image/game/nxmj/bsh_jintongyunv.png" />
+      <FilePathData Path="image/game/nxmj/bshi_banbanhu.png" />
+      <FilePathData Path="image/game/nxmj/bshi_bubugao.png" />
+      <FilePathData Path="image/game/nxmj/bshi_liuliushun.png" />
+      <FilePathData Path="image/game/nxmj/bshi_queyise.png" />
+      <FilePathData Path="image/game/nxmj/bshi_yidianhong.png" />
+      <FilePathData Path="image/game/nxmj/bshi_yizhihua.png" />
+      <FilePathData Path="image/game/nxmj/bubugao.png" />
+      <FilePathData Path="image/game/nxmj/dasixi.png" />
+      <FilePathData Path="image/game/nxmj/jintongyulv.png" />
+      <FilePathData Path="image/game/nxmj/liuliushun.png" />
+      <FilePathData Path="image/game/nxmj/queyise.png" />
+      <FilePathData Path="image/game/nxmj/santong.png" />
+      <FilePathData Path="image/game/nxmj/yidianhong.png" />
+      <FilePathData Path="image/game/nxmj/yizhihua.png" />
+      <FilePathData Path="image/game/nxmj/jianbiantiao.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

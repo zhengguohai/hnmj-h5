@@ -1,0 +1,75 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="MingTangPlist" Type="Plist" ID="8464fdfa-1611-4514-a143-a19aa11c020e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/BeiKaoBei.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/DaHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/DaKaHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/DaTuanYuan.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/DianHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/DianHuSanWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/DianHuWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/DianHuWangDiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/DiHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/DuiduiHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/ErBi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/Frame.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HaiDi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HaidiHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HeiHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HeiHuSanWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HeiHuWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HeiHuWangDiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HongHuSanWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HongHuWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HongHuWangDiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HongZhuanDian.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HongZhuanHei.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/Hu_Icon.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/Hu30.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HuangFan.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/JuShou.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/KaHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/LeiYangWuHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/light.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/PengPengHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/SanBi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/SanWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/ShiBaDa.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/ShiBaXiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/ShiHong.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/ShiLiuXiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/ShiSanHong.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/ShuaHouHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/ShuangPiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/SiBi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/SiQiHong.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/TianHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/TingHu68.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/TingHu80.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/WangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/WangChuangWang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/WangDiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/WangDiaoWang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/WuHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/XiaoHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/XiaoKaHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/YiDianHong.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/YiDianZhu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/YiKuaiBian.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/ZiMoHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/FangPao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HangHangXi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HeiWuHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/JiaDianHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/SanWangChuangWang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/WanHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/ZhenDianHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HongHu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/HongWu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/XiaoHong.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Result/MingTang/DaHong.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

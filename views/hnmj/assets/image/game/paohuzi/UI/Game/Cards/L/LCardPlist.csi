@@ -1,0 +1,35 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="LCardPlist" Type="Plist" ID="4f300253-0ea0-4a41-b6d4-b4417638534d" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/10.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/11.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/12.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/13.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/14.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/15.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/16.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/17.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/18.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/19.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/20.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/3.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/4.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/5.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/6.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/7.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/8.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/9.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/back.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/disable_front.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/front.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/PlayCardFrame.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/select.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/21.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Cards/L/front2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

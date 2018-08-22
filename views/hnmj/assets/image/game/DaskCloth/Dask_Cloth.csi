@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Dask_Cloth" Type="Plist" ID="39839ba7-f8ea-4c91-b484-804414fed0ad" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/DaskCloth/changsha.png" />
+      <FilePathData Path="image/game/DaskCloth/doudizhu.png" />
+      <FilePathData Path="image/game/DaskCloth/hangsan.png" />
+      <FilePathData Path="image/game/DaskCloth/hengyang.png" />
+      <FilePathData Path="image/game/DaskCloth/hengyanggui.png" />
+      <FilePathData Path="image/game/DaskCloth/hongzhong.png" />
+      <FilePathData Path="image/game/DaskCloth/huaihua.png" />
+      <FilePathData Path="image/game/DaskCloth/huanghuang.png" />
+      <FilePathData Path="image/game/DaskCloth/hunan.png" />
+      <FilePathData Path="image/game/DaskCloth/loudi.png" />
+      <FilePathData Path="image/game/DaskCloth/niuniu.png" />
+      <FilePathData Path="image/game/DaskCloth/paodekuai.png" />
+      <FilePathData Path="image/game/DaskCloth/qiancheng.png" />
+      <FilePathData Path="image/game/DaskCloth/sandaha.png" />
+      <FilePathData Path="image/game/DaskCloth/zhuanzhuan.png" />
+      <FilePathData Path="image/game/DaskCloth/banbiantianzha.png" />
+      <FilePathData Path="image/game/DaskCloth/datongzi.png" />
+      <FilePathData Path="image/game/DaskCloth/nignxiangmajiang.png" />
+      <FilePathData Path="image/game/DaskCloth/ningxiangkaiyangmajiang.png" />
+      <FilePathData Path="image/game/DaskCloth/shaoyangmajiang.png" />
+      <FilePathData Path="image/game/DaskCloth/xinningmajiang.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

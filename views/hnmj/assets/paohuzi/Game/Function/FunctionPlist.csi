@@ -1,0 +1,50 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="FunctionPlist" Type="Plist" ID="71978a04-7598-47a7-ac05-3e19bbe30564" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Guo.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Guo_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HeiHuSanWangChuang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HeiHuWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HeiHuWangChuang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HeiHuWangDiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HeiHuWangDiao_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HongHuSanWangChuang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HongHuWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HongHuWangChuang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HongHuWangDiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HongHuWangDiao_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Hu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Hu_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Liu.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Liu_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Peng.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Peng_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/SanWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/SanWangChuang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/SanWangChuangWang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/SanWangChuangWang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Wai.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Wai_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/WangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/WangChuang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/WangChuangWang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/WangChuangWang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/WangDiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/WangDiao_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/WangDiaoWang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/WangDiaoWang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HongHuSanWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Chi.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/Chi_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/DianHuSanWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/DianHuSanWangChuang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/DianHuWangChuang.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/DianHuWangChuang_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/DianHuWangDiao.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/DianHuWangDiao_relase.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/Function/HeiHuSanWangChuang.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

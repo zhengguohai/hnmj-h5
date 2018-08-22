@@ -1,0 +1,37 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="eff_pai_xin" Type="Plist" ID="8f458b49-f99e-43f3-bb6b-f3fc57b755c5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/effect/eff_pai_xin/13_lan.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/13_yao.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/da_diao_che.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/da_qi_dui.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/fu_13_lan.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/gang_shang_hua.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/gang_shang_pao.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/guang.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/hai_di_lao_yuan.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/hai_di_pao.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/hun_yi_se.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/men_qing.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/peng_peng_hu.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/pin_hu.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/qi_dui.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/qi_xiao_dui.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/qing_yi_se.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/quan_qiu_ren.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/tian_hu.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/xiao_diao_che.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/zheng_13_lan.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/chao_long_qi_dui.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/long_qi_dui.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/shuang_long_qi_dui.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/pin_hu_qi_xiao_dui.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/yao_9.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/zi_yi_se.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/zhua_yu.png" />
+      <FilePathData Path="image/effect/eff_pai_xin/tian_ting.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

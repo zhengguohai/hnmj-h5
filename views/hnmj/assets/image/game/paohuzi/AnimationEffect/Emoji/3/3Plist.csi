@@ -1,0 +1,28 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="3Plist" Type="Plist" ID="db8b244a-aa58-46a9-8c34-f15145c78b3e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/11.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/13.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/15.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/17.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/19.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/21.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/23.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/25.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/27.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/29.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/31.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/33.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/35.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/37.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/39.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/5.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/7.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Emoji/3/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

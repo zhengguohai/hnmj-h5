@@ -1,0 +1,72 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="common2" Type="Plist" ID="7c7c6c9b-e327-455b-a36e-4c61dba08264" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/common2/fangjianliebiao.png" />
+      <FilePathData Path="image/common2/lishizhanji.png" />
+      <FilePathData Path="image/common2/paijuliushui.png" />
+      <FilePathData Path="image/common2/shangcheng.png" />
+      <FilePathData Path="image/common2/wanfaxuanze.png" />
+      <FilePathData Path="image/common2/weikaishi.png" />
+      <FilePathData Path="image/common2/yijieshu.png" />
+      <FilePathData Path="image/common2/youxizhong.png" />
+      <FilePathData Path="image/common2/zhanjihuifang.png" />
+      <FilePathData Path="image/common2/tuoguanzhong.png" />
+      <FilePathData Path="image/common2/txt_agreement.png" />
+      <FilePathData Path="image/common2/videoflag.png" />
+      <FilePathData Path="image/common2/zhunbeizhong.png" />
+      <FilePathData Path="image/common2/jinbichangwanfa.png" />
+      <FilePathData Path="image/common2/changshamajiang.png" />
+      <FilePathData Path="image/common2/hongzhongmajiang.png" />
+      <FilePathData Path="image/common2/zhuanzhuanmajiang.png" />
+      <FilePathData Path="image/common2/bottome.png" />
+      <FilePathData Path="image/common2/btn_dengdaiwanjia.png" />
+      <FilePathData Path="image/common2/btn_goumai.png" />
+      <FilePathData Path="image/common2/btn_guanbi.png" />
+      <FilePathData Path="image/common2/btn_hongse.png" />
+      <FilePathData Path="image/common2/btn_jinse.png" />
+      <FilePathData Path="image/common2/btn_shezhi.png" />
+      <FilePathData Path="image/common2/btn_sound1.png" />
+      <FilePathData Path="image/common2/btn_sound2.png" />
+      <FilePathData Path="image/common2/btn_tuichu.png" />
+      <FilePathData Path="image/common2/btn_tuoguan.png" />
+      <FilePathData Path="image/common2/btn_voice1.png" />
+      <FilePathData Path="image/common2/btn_voice2.png" />
+      <FilePathData Path="image/common2/btn_wenhao.png" />
+      <FilePathData Path="image/common2/btn_xinxi.png" />
+      <FilePathData Path="image/common2/btn_yuyin.png" />
+      <FilePathData Path="image/common2/btn_zhinanzhen.png" />
+      <FilePathData Path="image/common2/btn_zhong_hongse.png" />
+      <FilePathData Path="image/common2/btn_zhong_jinse.png" />
+      <FilePathData Path="image/common2/di.png" />
+      <FilePathData Path="image/common2/di_1.png" />
+      <FilePathData Path="image/common2/di_2.png" />
+      <FilePathData Path="image/common2/didi.png" />
+      <FilePathData Path="image/common2/dkfdi.png" />
+      <FilePathData Path="image/common2/fangka.png" />
+      <FilePathData Path="image/common2/fangzhu_1.png" />
+      <FilePathData Path="image/common2/gou.png" />
+      <FilePathData Path="image/common2/huifang_bg.png" />
+      <FilePathData Path="image/common2/icon_tongzhi.png" />
+      <FilePathData Path="image/common2/jianbantiao.png" />
+      <FilePathData Path="image/common2/jianbian2.png" />
+      <FilePathData Path="image/common2/jinbichangwenhao.png" />
+      <FilePathData Path="image/common2/jinbika.png" />
+      <FilePathData Path="image/common2/line.png" />
+      <FilePathData Path="image/common2/line_shu.png" />
+      <FilePathData Path="image/common2/right.png" />
+      <FilePathData Path="image/common2/shengzi.png" />
+      <FilePathData Path="image/common2/shuaizi.png" />
+      <FilePathData Path="image/common2/sikuang.png" />
+      <FilePathData Path="image/common2/txt_huifang.png" />
+      <FilePathData Path="image/common2/txt_xiangqing.png" />
+      <FilePathData Path="image/common2/wenhao.png" />
+      <FilePathData Path="image/common2/wodefangjian.png" />
+      <FilePathData Path="image/common2/yuandian.png" />
+      <FilePathData Path="image/common2/zhugan.png" />
+      <FilePathData Path="image/common2/btn_huise.png" />
+      <FilePathData Path="image/common2/dayingjia_jiaobiao.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,21 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CardEffectPlist" Type="Plist" ID="cd1f6261-f0c7-4fa6-b3fe-46534485f1e1" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/DangDi_Icon.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/HaiDi_1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/HaiDi_2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/HaiDi_3.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/HaiDi_4.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/HaiDi_5.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/HaiDi_Icon.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/LiangZhang_1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/LiangZhang_2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/LiangZhang_3.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/LiangZhang_4.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/LiangZhang_5.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/LiangZhang_Icon.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,55 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="jiesuan" Type="Plist" ID="45a57400-c730-4059-851b-3fa539dde3fc" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/jiesuan/txt_title.png" />
+      <FilePathData Path="image/jiesuan/line.png" />
+      <FilePathData Path="image/jiesuan/icon_fangzhu.png" />
+      <FilePathData Path="image/jiesuan/di2.png" />
+      <FilePathData Path="image/jiesuan/fang_pao.png" />
+      <FilePathData Path="image/jiesuan/btn_fanhuidating.png" />
+      <FilePathData Path="image/jiesuan/btn_fenxiangyouxi.png" />
+      <FilePathData Path="image/jiesuan/btn_jixuyouxi.png" />
+      <FilePathData Path="image/jiesuan/dikuan_1.png" />
+      <FilePathData Path="image/jiesuan/fu.png" />
+      <FilePathData Path="image/jiesuan/ping.png" />
+      <FilePathData Path="image/jiesuan/sheng.png" />
+      <FilePathData Path="image/jiesuan/yeqian_dayingjia.png" />
+      <FilePathData Path="image/jiesuan/yeqian_fangzhu.png" />
+      <FilePathData Path="image/jiesuan/yeqian_liuhang.png" />
+      <FilePathData Path="image/jiesuan/yeqian_sanhang.png" />
+      <FilePathData Path="image/jiesuan/yeqian_sihang.png" />
+      <FilePathData Path="image/jiesuan/zha_1.png" />
+      <FilePathData Path="image/jiesuan/zha_2.png" />
+      <FilePathData Path="image/jiesuan/zongchengji.png" />
+      <FilePathData Path="image/jiesuan/angang.png" />
+      <FilePathData Path="image/jiesuan/fanggang.png" />
+      <FilePathData Path="image/jiesuan/hu.png" />
+      <FilePathData Path="image/jiesuan/jiegang.png" />
+      <FilePathData Path="image/jiesuan/minggang.png" />
+      <FilePathData Path="image/jiesuan/yupai.png" />
+      <FilePathData Path="image/jiesuan/zhongniaoqu.png" />
+      <FilePathData Path="image/jiesuan/btn_guanbi.png" />
+      <FilePathData Path="image/jiesuan/btn_jixupipei.png" />
+      <FilePathData Path="image/jiesuan/dikuan_2.png" />
+      <FilePathData Path="image/jiesuan/gonggang.png" />
+      <FilePathData Path="image/jiesuan/diandian.png" />
+      <FilePathData Path="image/jiesuan/huanghuang.png" />
+      <FilePathData Path="image/jiesuan/zhulongzi.png" />
+      <FilePathData Path="image/jiesuan/title.png" />
+      <FilePathData Path="image/jiesuan/zhuang2.png" />
+      <FilePathData Path="image/jiesuan/bg_di2.png" />
+      <FilePathData Path="image/jiesuan/bg_jiesuan.png" />
+      <FilePathData Path="image/jiesuan/biaoshi_dayingjia.png" />
+      <FilePathData Path="image/jiesuan/jianbantiao.png" />
+      <FilePathData Path="image/jiesuan/changgui_1.png" />
+      <FilePathData Path="image/jiesuan/changgui_2.png" />
+      <FilePathData Path="image/jiesuan/zongchengji1.png" />
+      <FilePathData Path="image/jiesuan/bg_di3.png" />
+      <FilePathData Path="image/jiesuan/dikuan_3.png" />
+      <FilePathData Path="image/jiesuan/qshdi.png" />
+      <FilePathData Path="image/jiesuan/dikuan_4.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

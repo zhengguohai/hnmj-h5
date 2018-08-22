@@ -1,0 +1,49 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="createRoom" Type="Plist" ID="03afd3c8-b1a8-4674-bac1-692b3e36ff01" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="False" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/createRoom/hot.png" />
+      <FilePathData Path="image/createRoom/new.png" />
+      <FilePathData Path="image/createRoom/zuijin.png" />
+      <FilePathData Path="image/createRoom/jiarufangjian.png" />
+      <FilePathData Path="image/createRoom/room.png" />
+      <FilePathData Path="image/createRoom/btnwanfa_1.png" />
+      <FilePathData Path="image/createRoom/btnwanfa_2.png" />
+      <FilePathData Path="image/createRoom/yeqian2.png" />
+      <FilePathData Path="image/createRoom/tuizhu.png" />
+      <FilePathData Path="image/createRoom/tipsKuang.png" />
+      <FilePathData Path="image/createRoom/img_difen.png" />
+      <FilePathData Path="image/createRoom/img_fbgz.png" />
+      <FilePathData Path="image/createRoom/img_gjxx.png" />
+      <FilePathData Path="image/createRoom/img_jushu.png" />
+      <FilePathData Path="image/createRoom/img_moshi.png" />
+      <FilePathData Path="image/createRoom/img_szfs.png" />
+      <FilePathData Path="image/createRoom/img_tspx.png" />
+      <FilePathData Path="image/createRoom/img_zdqz.png" />
+      <FilePathData Path="image/createRoom/yeqian1.png" />
+      <FilePathData Path="image/createRoom/btn_majiang1.png" />
+      <FilePathData Path="image/createRoom/btn_majiang2.png" />
+      <FilePathData Path="image/createRoom/btn_paohuzi1.png" />
+      <FilePathData Path="image/createRoom/btn_paohuzi2.png" />
+      <FilePathData Path="image/createRoom/btn_pukepai1.png" />
+      <FilePathData Path="image/createRoom/btn_pukepai2.png" />
+      <FilePathData Path="image/createRoom/img_renshu.png" />
+      <FilePathData Path="image/createRoom/img_wanfa.png" />
+      <FilePathData Path="image/createRoom/btn_yq_1.png" />
+      <FilePathData Path="image/createRoom/btn_yq_11.png" />
+      <FilePathData Path="image/createRoom/btn_yq_2.png" />
+      <FilePathData Path="image/createRoom/btn_yq_22.png" />
+      <FilePathData Path="image/createRoom/btn_yq_lvse_1.png" />
+      <FilePathData Path="image/createRoom/btn_yq_lvse_2.png" />
+      <FilePathData Path="image/createRoom/chuangjianfangjian.png" />
+      <FilePathData Path="image/createRoom/txt_chuangjianfangjian.png" />
+      <FilePathData Path="image/createRoom/txt_daikaifang.png" />
+      <FilePathData Path="image/createRoom/txt_querenxuanze.png" />
+      <FilePathData Path="image/createRoom/txt_wodefangjian.png" />
+      <FilePathData Path="image/createRoom/line.png" />
+      <FilePathData Path="image/createRoom/fansanpi1.png" />
+      <FilePathData Path="image/createRoom/fansanpi2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

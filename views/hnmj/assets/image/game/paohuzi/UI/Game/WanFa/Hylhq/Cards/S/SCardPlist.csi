@@ -1,0 +1,32 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="SCardPlist" Type="Plist" ID="479c4302-a705-4275-88f8-e2eb78a3ddff" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/1.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/10.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/11.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/12.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/13.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/14.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/15.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/16.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/17.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/18.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/19.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/2.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/20.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/3.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/4.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/5.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/6.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/7.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/8.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/9.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/back.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/disable_front.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/front.png" />
+      <FilePathData Path="image/game/paohuzi/UI/Game/WanFa/Hylhq/Cards/S/select.png" />
+    </ImageFiles>
+    <MaxSize Width="256" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,37 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="fansanpi" Type="Plist" ID="f9c3e67f-163d-42e9-93ee-4c2ff61f01e9" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/fansanpi/allSummary2/btn_close3.png" />
+      <FilePathData Path="image/game/fansanpi/allSummary2/btn_share2.png" />
+      <FilePathData Path="image/game/fansanpi/allSummary2/img_close2.png" />
+      <FilePathData Path="image/game/fansanpi/allSummary2/img_icon2.png" />
+      <FilePathData Path="image/game/fansanpi/allSummary2/img_icon2_bg.png" />
+      <FilePathData Path="image/game/fansanpi/allSummary2/img_return2.png" />
+      <FilePathData Path="image/game/fansanpi/allSummary2/img_title_fra.png" />
+      <FilePathData Path="image/game/fansanpi/allSummary2/img_title2.png" />
+      <FilePathData Path="image/game/fansanpi/allSummary2/img9_bg.png" />
+      <FilePathData Path="image/game/fansanpi/allSummary2/img9_glass.png" />
+      <FilePathData Path="image/game/fansanpi/zhanji/btn_lishizhanji.png" />
+      <FilePathData Path="image/game/fansanpi/zhanji/dikuang_lishizhanji.png" />
+      <FilePathData Path="image/game/fansanpi/zhanji/fengexian.png" />
+      <FilePathData Path="image/game/fansanpi/zhanji/fengexian_2.png" />
+      <FilePathData Path="image/game/fansanpi/dajiesuan/dikuang_shengli_1.png" />
+      <FilePathData Path="image/game/fansanpi/dajiesuan/dikuang_shengli_2.png" />
+      <FilePathData Path="image/game/fansanpi/dajiesuan/dikuang_shibai_1.png" />
+      <FilePathData Path="image/game/fansanpi/dajiesuan/dikuang_shibai_2.png" />
+      <FilePathData Path="image/game/fansanpi/dajiesuan/fengexian_shengli.png" />
+      <FilePathData Path="image/game/fansanpi/dajiesuan/fengexian_shibai.png" />
+      <FilePathData Path="image/game/fansanpi/dajiesuan/txt_dikuang.png" />
+      <FilePathData Path="image/game/fansanpi/dajiesuan/txt_zongchengji.png" />
+      <FilePathData Path="image/game/fansanpi/room/btn_cancel_trush.png" />
+      <FilePathData Path="image/game/fansanpi/room/btn_copyroomnum.png" />
+      <FilePathData Path="image/game/fansanpi/room/btn_trush.png" />
+      <FilePathData Path="image/game/fansanpi/room/room_bg.jpg" />
+      <FilePathData Path="image/game/fansanpi/room/img_fangzhu.png" />
+      <FilePathData Path="image/game/fansanpi/room/img_trust.png" />
+      <FilePathData Path="image/game/fansanpi/room/OK.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

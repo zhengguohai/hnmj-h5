@@ -1,0 +1,42 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="quickMatch" Type="Plist" ID="123cea7a-6612-470c-8df6-59a2511cb500" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/quickMatch/small/btn_back.png" />
+      <FilePathData Path="image/quickMatch/small/btn_changeDown.png" />
+      <FilePathData Path="image/quickMatch/small/btn_changeUp.png" />
+      <FilePathData Path="image/quickMatch/small/btn_gameRule.png" />
+      <FilePathData Path="image/quickMatch/small/btn_rankReward.png" />
+      <FilePathData Path="image/quickMatch/small/btn_refresh.png" />
+      <FilePathData Path="image/quickMatch/small/btn_roomInfo.png" />
+      <FilePathData Path="image/quickMatch/small/btn_share.png" />
+      <FilePathData Path="image/quickMatch/small/btn_startMatch.png" />
+      <FilePathData Path="image/quickMatch/small/cup.png" />
+      <FilePathData Path="image/quickMatch/small/fangka.png" />
+      <FilePathData Path="image/quickMatch/small/gold.png" />
+      <FilePathData Path="image/quickMatch/small/hz.png" />
+      <FilePathData Path="image/quickMatch/small/Img_down.png" />
+      <FilePathData Path="image/quickMatch/small/Img_gameInterval.png" />
+      <FilePathData Path="image/quickMatch/small/Img_item_rank.png" />
+      <FilePathData Path="image/quickMatch/small/Img_myRank_Bg.png" />
+      <FilePathData Path="image/quickMatch/small/Img_noRank.png" />
+      <FilePathData Path="image/quickMatch/small/Img_que1.png" />
+      <FilePathData Path="image/quickMatch/small/Img_que2.png" />
+      <FilePathData Path="image/quickMatch/small/Img_roomInfo.png" />
+      <FilePathData Path="image/quickMatch/small/Img_up.png" />
+      <FilePathData Path="image/quickMatch/small/tip.png" />
+      <FilePathData Path="image/quickMatch/small/titleBg.png" />
+      <FilePathData Path="image/quickMatch/small/Img_winnerCup_1.png" />
+      <FilePathData Path="image/quickMatch/small/Img_winnerCup_2.png" />
+      <FilePathData Path="image/quickMatch/small/Img_winnerCup_3.png" />
+      <FilePathData Path="image/quickMatch/small/btn_close.png" />
+      <FilePathData Path="image/quickMatch/small/btn_sure.png" />
+      <FilePathData Path="image/quickMatch/small/Img_roomEnd_bg1.png" />
+      <FilePathData Path="image/quickMatch/small/gameList_itemBg.png" />
+      <FilePathData Path="image/quickMatch/small/gameListBg.png" />
+      <FilePathData Path="image/quickMatch/small/btn_cancelMatch.png" />
+      <FilePathData Path="image/quickMatch/small/zzmj.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

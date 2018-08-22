@@ -1,0 +1,59 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="pdkcards" Type="Plist" ID="9d8828ec-1d94-4a61-adf5-6f98b2172579" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="2" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-card_back.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-card_back1.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-card_back2.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-card_back3.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-heartsmall.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-joke_black.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-joke_yellow.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-joker_red.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-meihua.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-meihuasmall.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-star.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-starsmall.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellow10.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellow2.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellow3.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellow4.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellow5.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellow6.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellow7.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellow8.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellow9.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellowA.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellowJ.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellowK.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/1-yellowQ.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-card.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-card_back.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-card_disable.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-card_select.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-card_select2.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-joker_black.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-joker_red.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-joker_yellow.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-star.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellow10.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellow2.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellow3.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellow4.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellow5.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellow6.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellow7.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellow8.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellow9.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellowA.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellowJ.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellowK.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/2-yellowQ.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/A.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/disable.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/select.png" />
+      <FilePathData Path="image/game/paodekuaiImage/cards/select2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

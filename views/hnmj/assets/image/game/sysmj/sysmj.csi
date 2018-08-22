@@ -1,0 +1,12 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="sysmj" Type="Plist" ID="25768f2d-5051-4c6c-8d3e-0e418e53523c" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/sysmj/btn_buchui.png" />
+      <FilePathData Path="image/game/sysmj/btn_chui.png" />
+      <FilePathData Path="image/game/sysmj/chui2.png" />
+      <FilePathData Path="image/game/sysmj/iconchui.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

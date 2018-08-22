@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="AnimHuangZhuangPlist" Type="Plist" ID="28300d1e-81d7-4fae-b538-9311837637da" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_1.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_2.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_3.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_4.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_5.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_6.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_7.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_8.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_9.png" />
+      <FilePathData Path="image/game/paohuzi/AnimationEffect/Result/HuangZhuang/HuangZhuang_90.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
